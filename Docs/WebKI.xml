@@ -1,0 +1,1114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="ActivateAPITabMocker class">
+    <HelpKINode Title="methods" Url="html/7c49377d-51af-58f0-d986-aa7bace15416.htm" />
+    <HelpKINode Title="methods" Url="html/43d2d9f3-db91-fbad-3d58-43cc402fd21d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddInObject property" Url="html/650b4102-1ce2-bdf1-1a4a-1c033cd1ac46.htm" />
+  <HelpKINode Title="As(Of T) method" Url="html/00efa55a-be71-2b2a-8404-5ed5c6a569b8.htm" />
+  <HelpKINode Title="As&lt;T&gt; method" Url="html/00efa55a-be71-2b2a-8404-5ed5c6a569b8.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting namespace" Url="html/754d200a-de8e-cd46-db14-5be18615fe17.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Attributes namespace" Url="html/28838169-c3bb-7823-a03a-4adc94e66597.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Attributes.PDMTestMethod class" Url="html/6db07556-884c-efa3-7c98-157c16f1080e.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Attributes.PDMTestMethodParameter class" Url="html/d6db51ad-5218-b108-521e-237228dd470a.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Attributes.TestVaultAttribute class" Url="html/d3c6b10e-0bf7-2ae5-d549-c7b5ebfdfb34.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Enums namespace" Url="html/7caf72fe-2513-9e4a-c1ca-1e87047bd4c7.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Enums.PDMTestMethodParameterType_e enumeration" Url="html/52ff68d2-9e9d-2ea6-aea2-73bded797570.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.LicenseValidationFailedException class" Url="html/7396764a-0fb8-5de8-b2c3-57ff4e309a17.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers namespace" Url="html/d99505f1-3d8f-8033-1354-2290b8d74944.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker class" Url="html/80444f31-693d-0e19-a205-efd543a66f65.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.ActivateAPITabMocker class" Url="html/3eb15f71-b8b5-dd95-42e9-ebd653a58700.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.CardButtonMocker class" Url="html/d4548050-8455-c723-e967-210b00b0eb77.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.CardInputMocker class" Url="html/cbb3918c-c98b-f774-cf52-841e43724b67.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.CardListSrcMocker class" Url="html/d785892b-0e9b-66ff-4f92-9b9305685bf2.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.CopyMocker class" Url="html/3a0437c3-a923-5593-d3ec-33ed9984d1d1.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.DeleteFolderMocker class" Url="html/c5057b7e-b640-e8ac-a7b1-c2ebd7bac6c9.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.GetMocker class" Url="html/6a072f9d-37ee-d75e-0449-177248837172.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.LabelAddItemMocker class" Url="html/9b8ddff2-70ac-00ad-8a83-cdce2e006cd5.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.LabelDeleteModifyMocker class" Url="html/d515f0a1-349c-9fe8-52b2-700f29845377.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.LockMocker class" Url="html/acc984d7-96bf-1a04-192d-bef7b7ae9f17.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.MenuMocker class" Url="html/2f5bdb68-9ed0-4879-228e-7eabb05b84c4.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.MoveFolderMocker class" Url="html/f6a3ab06-306b-098f-619c-b5ec48cfbea2.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.MoveMocker class" Url="html/25a60d16-9ff1-fdb8-3e50-c0f911b8b6a8.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.PostAddFolderMocker class" Url="html/43cfefd6-67de-2993-4290-01a6b133e5a0.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.PostAddMocker class" Url="html/f0f07b3f-3b5e-f7b9-e4a6-5fb6a4e597e6.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.PostCopyFolderMocker class" Url="html/67b67130-1780-40ac-62ac-97449bc951cc.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.PostDeleteMocker class" Url="html/c7b50cca-eb44-bdb1-45c2-9f97899c3a45.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.PostLabelMocker class" Url="html/a6f3a771-97a3-25bc-0de3-fb2b8d54612f.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.PreAddFolderMocker class" Url="html/690e8f62-65c3-79ab-8ce0-1f212baab17e.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.PreAddMocker class" Url="html/e9d39b36-bc21-823f-856a-ffb79fe338f4.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.PreCopyFolderMocker class" Url="html/c39d45a0-ce49-eec4-64d3-0c2dea7ff5d6.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.PreDeleteMocker class" Url="html/7df09355-fea2-6f87-ae9f-84d5f7676ad3.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.PreLabelMocker class" Url="html/54882a38-66dc-dec1-cdda-42ae57af7fd6.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.RenameFolderMocker class" Url="html/9757a522-ef94-ecf1-cf03-f7ffdea1aa35.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.RenameMocker class" Url="html/d396cc4e-03b8-f085-524f-822a2d721d32.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.SerialNoMocker class" Url="html/4f65d2e1-f1db-d510-ced6-e8a0efb537e1.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.ShareMocker class" Url="html/46e08990-f446-8a22-5100-d442e92f2649.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.StateMocker class" Url="html/e3d22307-4c50-887f-80a5-4512cea2ee0e.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.TaskDetailsMocker class" Url="html/c8cac06d-448a-8ff6-6c94-95c87f70d364.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.TaskLaunchButtonMocker class" Url="html/9d1a2ef3-7d4c-4023-835d-95645da678db.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.TaskLaunchMocker class" Url="html/94ffa737-b5ba-560f-fa93-a40d4b87cf45.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.TaskRunMocker class" Url="html/87dc3239-1a2e-8c04-595c-a709d54ee9c6.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.TaskSetupButtonMocker class" Url="html/ca14e174-db27-0f01-89cc-feb429927491.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.TaskSetupMocker class" Url="html/b7f98de0-2020-b897-2c4a-8690aecd87f4.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.UndoLockMocker class" Url="html/16b0a6a8-2269-04b9-5799-c8350dbf8b6d.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdDataMocker.UnlockMocker class" Url="html/b2c00525-7557-1959-a215-a3acacd8e11b.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker class" Url="html/07d86920-c18f-e7dc-43b7-9f782537d7a5.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.ActivateAPITabMocker class" Url="html/cbdca635-4108-5173-51ec-8d81c0e33ede.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.CardButtonMocker class" Url="html/6610c27f-fe04-b84b-e35f-451ab7aff22c.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.CardInputMocker class" Url="html/363bd6cf-9252-8d0b-59b3-8ce11c91835c.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.CardListSrcMocker class" Url="html/055c5360-e6b4-3d5f-56e1-650e6cb4c1c9.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.MenuMocker class" Url="html/795fbb69-a1de-38fb-5436-784f19a55591.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PostAddFolderMocker class" Url="html/0c237333-4a06-2514-01ff-d533f3cab084.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PostAddMocker class" Url="html/87c88d40-cd5a-99bf-8d6c-fca06b18f375.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PostCopyFolderMocker class" Url="html/1c7dfe69-2e65-ea9b-a023-1ac62d127b02.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PostCopyMocker class" Url="html/ae1bb3e2-2052-06b0-b544-ee46a3947070.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PostDeleteFolderMocker class" Url="html/42071f96-af32-b6b0-7a13-16f476edbd8d.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PostDeleteMocker class" Url="html/03728306-064e-af8f-4a9d-6d9601b95846.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PostGetMocker class" Url="html/30ed9507-074b-6d6a-2ef3-b0070785659e.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PostLabelAddItemMocker class" Url="html/78348764-a2c9-60ef-1b21-3d63705f1d96.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PostLabelDeleteMocker class" Url="html/1e48c5f9-c142-d1d6-f4e0-2ac36bcb55c1.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PostLabelMocker class" Url="html/9d7a2e42-0153-e21f-32fd-2c195abf62b8.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PostLabelModifyMocker class" Url="html/41e4b05e-2571-e731-b6bd-24bd9f7623e4.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PostLockMocker class" Url="html/0b6c2a38-4b6a-df3c-77cf-4498760a9270.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PostMoveFolderMocker class" Url="html/7b3fcb50-6b51-ac5b-7822-bfe191a6f4de.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PostMoveMocker class" Url="html/a6cef5d0-7fb9-59aa-daf7-2cc0a823f544.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PostRenameFolderMocker class" Url="html/9e5b0649-96c2-46a8-ef7f-7cf80df5517f.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PostRenameMocker class" Url="html/c7454a8a-07d2-ec5a-aacb-fcfbac0bafd9.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PostShareMocker class" Url="html/7b3f4973-5914-9ab7-02d3-26634f24df64.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PostStateMocker class" Url="html/6ab346a6-8769-94a4-889e-142465cf323a.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PostUndoLockMocker class" Url="html/1bc510ce-a8ac-b891-c348-d81c84e5c0c1.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PostUnlockMocker class" Url="html/ee82fcc7-fba4-67d2-5efc-71895230c478.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PreAddFolderMocker class" Url="html/b96b5251-e0d2-f929-cf95-571524c43fde.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PreAddMocker class" Url="html/8b17e311-f87c-953e-31df-473961c8a478.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PreCopyFolderMocker class" Url="html/685b9599-59bb-8e80-8bcf-e2722b6f0b62.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PreCopyMocker class" Url="html/92b6c2c5-256f-8ab8-2aaa-3c7f9ac051fd.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PreDeleteFolderMocker class" Url="html/f5985095-407c-96b3-6c51-7a75bb13e7bc.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PreDeleteMocker class" Url="html/e784596e-d331-bbc0-c1c0-7284aaaa63a0.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PreExploreInitMocker class" Url="html/0e3c30a0-8af1-aec1-9b3d-8552e72f6a6b.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PreGetMocker class" Url="html/e2d2af36-0f9a-2cad-6a30-381ddae0a5d5.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PreLabelAddItemMocker class" Url="html/228f3ce8-593a-8ae2-c57b-7ad274b96184.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PreLabelDeleteMocker class" Url="html/e79bb2cf-d45a-43b1-9f64-8795ac9777b9.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PreLabelMocker class" Url="html/cc6887e8-0a9e-8a18-f37a-f19c88d5e304.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PreLabelModifyMocker class" Url="html/3c829bf2-2fcd-b7e8-4f8f-87ab02468734.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PreLockMocker class" Url="html/35a049d8-0fdc-9d62-49f1-65e4e3f140d3.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PreMoveFolderMocker class" Url="html/ba215cdd-e0ce-2f5d-e1c5-8768b981638b.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PreMoveMocker class" Url="html/84e5f302-f951-6e78-803e-5fbd0e04ee1d.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PreRenameFolderMocker class" Url="html/34a9a032-9239-0ea0-6858-e86b9eed703c.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PreRenameMocker class" Url="html/a86e7e38-b5ed-14c5-3913-6672ec2095b4.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PreShareMocker class" Url="html/42aae1ba-d366-217f-5e79-ba141671fdb6.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PreStateMocker class" Url="html/b419784a-788a-5d17-4a2b-7c68e1b13903.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PreUndoLockMocker class" Url="html/64f22cae-f186-fad1-5804-2dfa2eaab2fd.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.PreUnlockMocker class" Url="html/94644714-d917-dcc8-c975-eaa9caf21a08.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.SerialNoMocker class" Url="html/18958bf4-dee9-2db6-aa46-c11862461b7c.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.TaskDetailsMocker class" Url="html/5665c8c2-bfcd-a858-35be-f5bd210ac0e3.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.TaskLaunchButtonMocker class" Url="html/96c6826a-fd20-17b8-6029-5fb79b08b6c5.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.TaskLaunchMocker class" Url="html/a08246b2-ccd6-788a-769b-ab8e9e4b064a.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.TaskRunMocker class" Url="html/0ed9fdf2-3789-cf8b-3493-fd6a7f1895c1.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.TaskSetupButtonMocker class" Url="html/4b74b20a-c6a1-32e6-d93c-ff059847acfe.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdMocker.TaskSetupMocker class" Url="html/09c35d36-27c6-768f-987b-e75c59f464e7.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmCmdNode class" Url="html/6ed904b7-c905-7d24-3a65-db258ddd419a.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmTaskExtensions class" Url="html/d6cdfebf-9413-4024-a853-fa19c00aadec.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.PDMMockFactory class" Url="html/09dd3fc2-2051-5fe3-8ec8-5b436fc71da2.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.PDMFactory class" Url="html/4472f2b9-204e-ec71-13db-db5edb550307.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.TaskSetupPageHost(Of T) class" Url="html/80ea494c-ea7d-ed25-e7b2-b3bdc3581c28.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.TaskSetupPageHost&lt;T&gt; class" Url="html/80ea494c-ea7d-ed25-e7b2-b3bdc3581c28.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.TestableAddInBase(Of T) class" Url="html/2d3f9caa-b194-e0e6-7bc4-c5b424a45b0c.htm" />
+  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.TestableAddInBase&lt;T&gt; class" Url="html/2d3f9caa-b194-e0e6-7bc4-c5b424a45b0c.htm" />
+  <HelpKINode Title="CardButtonMocker class">
+    <HelpKINode Title="methods" Url="html/3f78b80b-6527-1058-4b2b-d06f4258b17c.htm" />
+    <HelpKINode Title="methods" Url="html/67abf17c-8e0f-f396-b0a0-5c371063eab6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CardInputMocker class">
+    <HelpKINode Title="methods" Url="html/c7b9fc77-34d6-1162-9cbe-5cc0c61acced.htm" />
+    <HelpKINode Title="methods" Url="html/2e4713a2-c23f-ef60-bbe2-752c7ae0d394.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CardListSrcMocker class">
+    <HelpKINode Title="methods" Url="html/6041ebd9-0bb3-def0-c2c7-9e3377c31796.htm" />
+    <HelpKINode Title="methods" Url="html/c6bc6287-7546-a6f1-73ed-3fd6cf509c46.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Cleanup method" Url="html/314639cf-6cbe-376d-c21c-ba2fd8af55e1.htm" />
+  <HelpKINode Title="CopyFrom method" Url="html/74972381-2273-f5cd-d06d-d13f3ba5bd90.htm" />
+  <HelpKINode Title="CopyMocker class">
+    <HelpKINode Title="methods" Url="html/271c613a-3136-a751-da9b-9b164a1fc1bd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeleteFolderMocker class">
+    <HelpKINode Title="methods" Url="html/bf5638ef-51c6-23d4-f325-23c77e097cab.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Dispose method" Url="html/358f05fc-1d7e-eea5-3b06-e2faf39b7624.htm" />
+  <HelpKINode Title="EdmCmdDataMocker class">
+    <HelpKINode Title="EdmCmdDataMocker Class" Url="html/80444f31-693d-0e19-a205-efd543a66f65.htm" />
+    <HelpKINode Title="methods" Url="html/fa259c3e-0b05-0834-6334-9295ca273d6b.htm" />
+    <HelpKINode Title="properties" Url="html/85da0905-228d-eb29-d047-b5a06ca641ec.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmdDataMocker.ActivateAPITabMocker class" Url="html/3eb15f71-b8b5-dd95-42e9-ebd653a58700.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.ActivateAPITabMocker.Mock method" Url="html/6a2959fd-e327-2e1d-ad3c-574b4ef8ca2b.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.CardButtonMocker class" Url="html/d4548050-8455-c723-e967-210b00b0eb77.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.CardButtonMocker.Mock method" Url="html/f793483a-43ea-58ad-688a-fa18b41ea9f7.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.CardInputMocker class" Url="html/cbb3918c-c98b-f774-cf52-841e43724b67.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.CardInputMocker.Mock method" Url="html/16ea16ab-3adb-f4ce-437c-54a62097bcae.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.CardListSrcMocker class" Url="html/d785892b-0e9b-66ff-4f92-9b9305685bf2.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.CardListSrcMocker.Mock method" Url="html/610b72ff-9f54-62c6-aad8-6534d011344f.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.CopyMocker class" Url="html/3a0437c3-a923-5593-d3ec-33ed9984d1d1.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.CopyMocker.Mock method" Url="html/95b7bb46-e6e0-bd6a-f513-07c5b3b9f214.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.DeleteFolderMocker class" Url="html/c5057b7e-b640-e8ac-a7b1-c2ebd7bac6c9.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.DeleteFolderMocker.Mock method" Url="html/6af4c185-2e3a-d04c-632a-bb474b25505a.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_ActivateAPITab property" Url="html/ac717a67-33a7-fd90-6925-6afda0017047.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_CardButton property" Url="html/e905565f-9188-4de4-9d1d-be04ece14f9a.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_CardInput property" Url="html/f4db4ba2-0e61-64dc-c8ed-35c1f4eb6224.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_CardListSrc property" Url="html/5a6c33e7-80fe-c101-bd62-5f4e31a89e70.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_Menu property" Url="html/fc8a97f2-0aea-fd62-5b17-a7f734bf8b9a.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostAdd property" Url="html/0f8a824a-3673-a8ab-e965-10d7f8fba5b0.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostAddFolder property" Url="html/73b16b31-38b9-4d98-71b9-411892f360b4.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostCopy property" Url="html/6715c590-980f-974d-a876-3b555dd31c9a.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostCopyFolder property" Url="html/cecf4e22-d8a7-bd7f-0934-dfd7301ab6de.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostDelete property" Url="html/6f794047-2bcb-bbe4-d3a0-37fb84ab3e82.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostDeleteFolder property" Url="html/bce90ba8-b0d6-6a79-eb85-496112aef9f3.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostGet property" Url="html/08012975-2cb5-5fac-8461-36a4dbe92645.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostLabel property" Url="html/cca8f345-fc7e-f19e-75f1-24a50fd2bf85.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostLabelAddItem property" Url="html/81056c71-d485-7a80-b7d6-d2dc74bdc3d0.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostLabelDelete property" Url="html/bc88ee56-9bca-dca1-6d29-005c681e1f18.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostLabelModify property" Url="html/8aae7759-afb7-0ac0-e9df-d0f8ba72f3c2.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostLock property" Url="html/444b9431-332f-398e-3f20-7ebf1475f302.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostMove property" Url="html/077c17a0-6024-5bba-8a14-622b6fed49cd.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostMoveFolder property" Url="html/a13e4d13-f629-2248-3270-ef7a95233f06.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostRename property" Url="html/0e6539bc-20b1-b3b0-2352-5e77addbcfd3.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostRenameFolder property" Url="html/fb0dd1c5-2c7e-af0c-e42c-e8a7ae949818.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostShare property" Url="html/4181c5c3-049c-b795-4118-29154b34a47a.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostState property" Url="html/db1d080e-285d-4160-3852-395b5a0fb03e.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostUndoLock property" Url="html/2a9511a2-bfe7-cd78-9537-2ee58ad07ca7.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostUnlock property" Url="html/1bf0098f-ec31-f216-065a-ddf510a191a0.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreAdd property" Url="html/c70bfde6-9243-5826-b7bb-526caf13bdbd.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreAddFolder property" Url="html/1dea9610-09dc-79ee-cdfd-7f1b5280280b.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreCopy property" Url="html/6c6d22b9-bcfa-2644-e907-6b1a5cc01600.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreCopyFolder property" Url="html/656b5805-8bd4-494c-5c49-d4db6f55fb13.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreDelete property" Url="html/a93ede19-9815-9d8e-5ed0-f219aa13bab6.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreDeleteFolder property" Url="html/f2e1026d-16ae-2bd0-48e2-aad3ce45d7e6.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreGet property" Url="html/c4d80099-586a-952e-66a2-44a3495e5a81.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreLabel property" Url="html/b2321a6d-7122-331c-88c0-b831a03da89e.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreLabelAddItem property" Url="html/ce6860b4-641b-0934-1f76-a55be56ecf42.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreLabelDelete property" Url="html/9b5e4deb-f978-98db-894d-f5a76cfc65f3.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreLabelModify property" Url="html/4b529770-981e-3819-ece7-b92f5a3557f3.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreLock property" Url="html/94534b22-53ce-04b6-6b57-8ff1266fbc3c.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreMove property" Url="html/84b86d9f-bbcd-6016-9baa-09f79340381c.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreMoveFolder property" Url="html/e0a6bf4e-fb55-a04c-ae6d-ee56f37d7db2.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreRename property" Url="html/dc704419-dba4-86c0-5989-1361465780f3.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreRenameFolder property" Url="html/6ead1716-ecde-7332-ffeb-b1350a5dc69e.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreShare property" Url="html/71d65cdf-3f38-b172-072f-3f62242e8680.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreState property" Url="html/a81c9fb2-1d31-5549-2ad4-462216cde4c2.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreUndoLock property" Url="html/f740a2bc-b32d-ce12-73e3-b0e9603e9896.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreUnlock property" Url="html/5f8d3200-d804-660c-c1fc-8e0ce764c74e.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_SerialNo property" Url="html/c716b269-5254-7ae4-b989-6b12fb42c4e6.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_TaskDetails property" Url="html/6ad5006c-ceb5-6d9d-6484-016daf15644c.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_TaskLaunch property" Url="html/a66ab73b-8828-edce-0d69-d9658663f938.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_TaskLaunchButton property" Url="html/d2e9fa67-3f7b-e6a9-256c-4f172721e2fe.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_TaskRun property" Url="html/3c6b909b-91bb-1e1d-b588-73ff136d91e5.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_TaskSetup property" Url="html/0e668ac9-2460-9b5f-8a5b-75f240b853f0.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.EdmCmd_TaskSetupButton property" Url="html/a57922ed-b8c9-8998-4a7c-47a078139627.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.GetMocker class" Url="html/6a072f9d-37ee-d75e-0449-177248837172.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.GetMocker.Mock method" Url="html/f2159472-ddb1-d384-1f02-d4d593b24ab3.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.LabelAddItemMocker class" Url="html/9b8ddff2-70ac-00ad-8a83-cdce2e006cd5.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.LabelAddItemMocker.Mock method" Url="html/81dc3892-3bab-18eb-9188-bd08afa5773a.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.LabelDeleteModifyMocker class" Url="html/d515f0a1-349c-9fe8-52b2-700f29845377.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.LabelDeleteModifyMocker.Mock method" Url="html/3e0c837d-110f-7514-7c90-14e4ce432265.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.LockMocker class" Url="html/acc984d7-96bf-1a04-192d-bef7b7ae9f17.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.LockMocker.Mock method" Url="html/759bb15d-cd07-eb69-d28f-5d619778a449.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.MenuMocker class">
+    <HelpKINode Title="EdmCmdDataMocker.MenuMocker Class" Url="html/2f5bdb68-9ed0-4879-228e-7eabb05b84c4.htm" />
+    <HelpKINode Title="constructor" Url="html/f738492a-c26d-85fa-d51a-125cfee80606.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmdDataMocker.MenuMocker.MenuMocker constructor" Url="html/f738492a-c26d-85fa-d51a-125cfee80606.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.MenuMocker.Mock method" Url="html/77023364-7fff-84ff-1708-7df6843a4c55.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.MoveFolderMocker class">
+    <HelpKINode Title="EdmCmdDataMocker.MoveFolderMocker Class" Url="html/f6a3ab06-306b-098f-619c-b5ec48cfbea2.htm" />
+    <HelpKINode Title="constructor" Url="html/d4b4656a-faaf-e3e4-b92c-89a23d32db6b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmdDataMocker.MoveFolderMocker.Mock method" Url="html/359f4d02-df1d-f9e2-bbb9-49d3b14319ed.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.MoveFolderMocker.MoveFolderMocker constructor" Url="html/d4b4656a-faaf-e3e4-b92c-89a23d32db6b.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.MoveMocker class" Url="html/25a60d16-9ff1-fdb8-3e50-c0f911b8b6a8.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.MoveMocker.Mock method" Url="html/92662804-3011-4aac-62dc-6af84d457b44.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.PostAddFolderMocker class" Url="html/43cfefd6-67de-2993-4290-01a6b133e5a0.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.PostAddFolderMocker.Mock method" Url="html/bfbbb923-87d5-3edf-b2d1-f7c5751ed336.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.PostAddMocker class" Url="html/f0f07b3f-3b5e-f7b9-e4a6-5fb6a4e597e6.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.PostAddMocker.Mock method" Url="html/f10f8a12-a587-1df1-86d7-f095a5a00098.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.PostCopyFolderMocker class" Url="html/67b67130-1780-40ac-62ac-97449bc951cc.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.PostCopyFolderMocker.Mock method" Url="html/5245e781-1a8d-1b60-245f-35b5b8e6dd7e.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.PostDeleteMocker class" Url="html/c7b50cca-eb44-bdb1-45c2-9f97899c3a45.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.PostDeleteMocker.Mock method" Url="html/72a85db6-2972-f635-0fc3-4e651fce7448.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.PostLabelMocker class" Url="html/a6f3a771-97a3-25bc-0de3-fb2b8d54612f.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.PostLabelMocker.Mock method" Url="html/a67844ff-b9c6-2753-8ac7-698d40084883.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.PreAddFolderMocker class" Url="html/690e8f62-65c3-79ab-8ce0-1f212baab17e.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.PreAddFolderMocker.Mock method" Url="html/07677f6a-1973-3ea5-17c8-730689a9a799.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.PreAddMocker class" Url="html/e9d39b36-bc21-823f-856a-ffb79fe338f4.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.PreAddMocker.Mock method" Url="html/db1eb444-e7cc-6bd1-3b4b-cc8d06134025.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.PreCopyFolderMocker class" Url="html/c39d45a0-ce49-eec4-64d3-0c2dea7ff5d6.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.PreCopyFolderMocker.Mock method" Url="html/be314583-7b9c-d185-2752-a10e7c93f99f.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.PreDeleteMocker class" Url="html/7df09355-fea2-6f87-ae9f-84d5f7676ad3.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.PreDeleteMocker.Mock method" Url="html/2ca0b3aa-406e-5eec-d36d-038b5ac48fcd.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.PreLabelMocker class" Url="html/54882a38-66dc-dec1-cdda-42ae57af7fd6.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.PreLabelMocker.Mock method" Url="html/c4a5269d-63ae-d266-5f36-18dd2f5c658b.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.RenameFolderMocker class" Url="html/9757a522-ef94-ecf1-cf03-f7ffdea1aa35.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.RenameFolderMocker.Mock method" Url="html/51450f66-da39-0195-0cf0-f4c6bb2ed840.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.RenameMocker class" Url="html/d396cc4e-03b8-f085-524f-822a2d721d32.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.RenameMocker.Mock method" Url="html/d0765a38-6f61-8b74-0558-bee8d671e61e.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.SerialNoMocker class" Url="html/4f65d2e1-f1db-d510-ced6-e8a0efb537e1.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.SerialNoMocker.Mock method" Url="html/2a5e1017-0426-857f-c62a-3a154f91da1b.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.ShareMocker class" Url="html/46e08990-f446-8a22-5100-d442e92f2649.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.ShareMocker.Mock method" Url="html/f25dd9cd-7bad-a174-20e3-3ef4d43fc2c7.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.StateMocker class" Url="html/e3d22307-4c50-887f-80a5-4512cea2ee0e.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.StateMocker.Mock method" Url="html/0c1738eb-2ba7-0b9e-f21f-3737a0e2d0bd.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.TaskDetailsMocker class" Url="html/c8cac06d-448a-8ff6-6c94-95c87f70d364.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.TaskDetailsMocker.Mock method" Url="html/67277963-86ca-8cf2-f5c1-d933822290e5.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.TaskLaunchButtonMocker class" Url="html/9d1a2ef3-7d4c-4023-835d-95645da678db.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.TaskLaunchButtonMocker.Mock method" Url="html/fc6d0018-adb1-5174-3db9-6f0e91b11aee.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.TaskLaunchMocker class" Url="html/94ffa737-b5ba-560f-fa93-a40d4b87cf45.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.TaskLaunchMocker.Mock method" Url="html/39d51c19-f7cb-4114-ad25-71e11152b6f8.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.TaskRunMocker class" Url="html/87dc3239-1a2e-8c04-595c-a709d54ee9c6.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.TaskRunMocker.Mock method" Url="html/0c77adc5-2610-686a-97c9-3ada4f2ef0e6.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.TaskSetupButtonMocker class" Url="html/ca14e174-db27-0f01-89cc-feb429927491.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.TaskSetupButtonMocker.Mock method" Url="html/9609b6dd-817f-6df3-5d1c-381af9d348a5.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.TaskSetupMocker class" Url="html/b7f98de0-2020-b897-2c4a-8690aecd87f4.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.TaskSetupMocker.Mock method" Url="html/7e948109-d57b-36c8-cc88-cfcdd209ab91.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.UndoLockMocker class" Url="html/16b0a6a8-2269-04b9-5799-c8350dbf8b6d.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.UndoLockMocker.Mock method" Url="html/da9f34c1-6619-bfe0-7f25-36471316bd5d.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.UnlockMocker class" Url="html/b2c00525-7557-1959-a215-a3acacd8e11b.htm" />
+  <HelpKINode Title="EdmCmdDataMocker.UnlockMocker.Mock method" Url="html/d2245249-5c3c-c4c2-529f-956abeba78af.htm" />
+  <HelpKINode Title="EdmCmdMocker class">
+    <HelpKINode Title="EdmCmdMocker Class" Url="html/07d86920-c18f-e7dc-43b7-9f782537d7a5.htm" />
+    <HelpKINode Title="methods" Url="html/d865cb18-948e-e106-c157-6c9c18cfb447.htm" />
+    <HelpKINode Title="properties" Url="html/8cdd2922-557d-1942-2e01-f41534d930a0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmdMocker.ActivateAPITabMocker class" Url="html/cbdca635-4108-5173-51ec-8d81c0e33ede.htm" />
+  <HelpKINode Title="EdmCmdMocker.ActivateAPITabMocker.Mock method" Url="html/8fa9b23b-6906-0204-e503-830ea2b00ec6.htm" />
+  <HelpKINode Title="EdmCmdMocker.CardButtonMocker class" Url="html/6610c27f-fe04-b84b-e35f-451ab7aff22c.htm" />
+  <HelpKINode Title="EdmCmdMocker.CardButtonMocker.Mock method" Url="html/9f20260c-9614-b127-9654-597e874f1664.htm" />
+  <HelpKINode Title="EdmCmdMocker.CardInputMocker class" Url="html/363bd6cf-9252-8d0b-59b3-8ce11c91835c.htm" />
+  <HelpKINode Title="EdmCmdMocker.CardInputMocker.Mock method" Url="html/55d17be6-88e2-569e-dd07-f8935efcadf9.htm" />
+  <HelpKINode Title="EdmCmdMocker.CardListSrcMocker class" Url="html/055c5360-e6b4-3d5f-56e1-650e6cb4c1c9.htm" />
+  <HelpKINode Title="EdmCmdMocker.CardListSrcMocker.Mock method" Url="html/3f90b5ad-a76c-5e9b-869f-48dc03b5bb81.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_ActivateAPITab property" Url="html/59cf1599-93e1-9ad2-a656-de471f9d21ab.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_CardButton property" Url="html/bd288ae6-fb84-214d-4acc-b1b7f1ee9c2f.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_CardInput property" Url="html/df648e4f-016d-b724-b1a1-3b65815876b6.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_CardListSrc property" Url="html/570d4737-24df-1367-49aa-796d2bb09955.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_Menu property" Url="html/82f45e2d-9e32-b162-ed76-46c244a77f30.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PostAdd property" Url="html/6d0e7aa4-aa63-b5cd-6cfd-3a49002128e1.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PostAddFolder property" Url="html/a100917d-d1cb-8c94-592d-cf5041189158.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PostCopy property" Url="html/983d8014-b572-d644-4503-6f5144e2807b.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PostCopyFolder property" Url="html/c29fa247-fce9-f4f6-745f-085b196a7d74.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PostDelete property" Url="html/f8e15457-c9b0-398b-49a7-ae8279bcaff3.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PostDeleteFolder property" Url="html/f2e4312e-9148-3e55-089f-7be7adf821dd.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PostGet property" Url="html/2731ec6d-c124-180d-721c-9fcaf48b2f60.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PostLabel property" Url="html/b007e9eb-77d3-467e-8971-9be6d27cb98b.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PostLabelAddItem property" Url="html/14e44db6-4c9a-5242-8f6d-e37bc3485ec3.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PostLabelDelete property" Url="html/efdaf168-3993-84b7-da6c-3a02bac227ae.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PostLabelModify property" Url="html/ef4f854a-19d7-3a1d-76e2-9d1f0f02e820.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PostLock property" Url="html/1a317917-296e-7227-5689-002c874f6fa4.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PostMove property" Url="html/55261c26-b43b-c539-c059-7c77e910eeb4.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PostMoveFolder property" Url="html/cd2fd08e-9986-b27b-27fe-105a404da42c.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PostRename property" Url="html/22b75385-e77f-4db0-5145-8d54ce2f2d5b.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PostRenameFolder property" Url="html/f03b9332-7c5a-741d-2c48-80b55ea1adaf.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PostShare property" Url="html/04407eb5-98e4-5f1c-1bb9-626397b557ff.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PostState property" Url="html/07f15de6-bbc2-d473-9c31-7d25cb1c25a4.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PostUndoLock property" Url="html/f1d29109-f233-da51-37e4-cb0794484024.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PostUnlock property" Url="html/f093f1e6-b578-bdac-0f74-00d653a2d357.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PreAdd property" Url="html/e991106e-be48-f1ff-bc32-aa38c2ac47cf.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PreAddFolder property" Url="html/c49850d0-9e08-76fa-6646-1c6813c6414e.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PreCopy property" Url="html/b8dfd03c-509e-624c-eb71-6bda8fc8e3d4.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PreCopyFolder property" Url="html/79ad9d2f-0324-98d9-f6e0-3224c949394c.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PreDelete property" Url="html/e0823727-9506-08b8-f493-416886d32530.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PreDeleteFolder property" Url="html/e6b82477-76fc-b27d-286d-dedd13c3e95d.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PreExploreInit property" Url="html/8bbd940e-481b-f73d-e7f2-bef46bb5f209.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PreGet property" Url="html/a4868be3-56be-6f94-eb0d-85826af4b0b9.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PreLabel property" Url="html/6994eead-154e-65e1-3b3d-bbd6cd12c907.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PreLabelAddItem property" Url="html/03fcff8e-bbfd-bf61-c7f0-3d228e65f59a.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PreLabelDelete property" Url="html/e164f30a-c495-cb3b-5d65-351955b08998.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PreLabelModify property" Url="html/44d1dd0e-a00b-62cc-0bec-78c115fc5d3d.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PreLock property" Url="html/43e822eb-202e-1719-f3d4-9b182e5ffc89.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PreMove property" Url="html/66d3ccc7-9e55-d251-09e9-e0efe4b689c0.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PreMoveFolder property" Url="html/7ae4bd9a-8756-5501-9e05-d6d7849e1ea5.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PreRename property" Url="html/510aa4fe-6567-c0b1-3729-9a2ca3040541.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PreRenameFolder property" Url="html/baa72b47-fb87-d109-fe77-fdb81e370a63.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PreShare property" Url="html/42d5a781-2cff-edf5-fbb0-1f77c5b75353.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PreState property" Url="html/c95f1b4f-f209-7a3d-c4ab-fd30e56c9df8.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PreUndoLock property" Url="html/f7f9b6f2-dea4-884c-3f83-4ae8b5414ac2.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_PreUnlock property" Url="html/0b528754-3040-f560-08df-d795a43045b0.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_SerialNo property" Url="html/f45d127e-aebf-2655-e1f6-668b825cbb0e.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_TaskDetails property" Url="html/ae1fd174-f4a2-af7e-7d25-0b9c3ae2fc06.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_TaskLaunch property" Url="html/b2116f37-3c60-5143-b419-f6ff1ed3413a.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_TaskLaunchButton property" Url="html/b31a5361-941b-5d2a-29ab-f358b374f15f.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_TaskRun property" Url="html/03a7b821-1783-55e9-c6ed-b055c59a05ad.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_TaskSetup property" Url="html/1782b571-23cd-e2af-a9c2-e68e75521631.htm" />
+  <HelpKINode Title="EdmCmdMocker.EdmCmd_TaskSetupButton property" Url="html/855a0fef-24df-94cb-8d83-d863bb51ab3a.htm" />
+  <HelpKINode Title="EdmCmdMocker.MenuMocker class" Url="html/795fbb69-a1de-38fb-5436-784f19a55591.htm" />
+  <HelpKINode Title="EdmCmdMocker.MenuMocker.Mock method" Url="html/54f19273-0293-89ac-6e81-54bcf52556a6.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostAddFolderMocker class" Url="html/0c237333-4a06-2514-01ff-d533f3cab084.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostAddFolderMocker.Mock method" Url="html/85496ab0-9f99-53d2-b59c-f063b35dbf29.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostAddMocker class" Url="html/87c88d40-cd5a-99bf-8d6c-fca06b18f375.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostAddMocker.Mock method" Url="html/5cd01c42-4149-d589-6a4e-1d2bd15557e6.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostCopyFolderMocker class" Url="html/1c7dfe69-2e65-ea9b-a023-1ac62d127b02.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostCopyFolderMocker.Mock method" Url="html/79168a01-2168-18fc-86ff-aba518f8dff2.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostCopyMocker class" Url="html/ae1bb3e2-2052-06b0-b544-ee46a3947070.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostCopyMocker.Mock method" Url="html/32d8b0d4-151a-d058-a978-d8057b0362c5.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostDeleteFolderMocker class" Url="html/42071f96-af32-b6b0-7a13-16f476edbd8d.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostDeleteFolderMocker.Mock method" Url="html/e2174039-0981-5242-3ff9-4c35e4f31891.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostDeleteMocker class" Url="html/03728306-064e-af8f-4a9d-6d9601b95846.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostDeleteMocker.Mock method" Url="html/e6e09635-c49d-8775-86c8-b71c326dd99e.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostGetMocker class" Url="html/30ed9507-074b-6d6a-2ef3-b0070785659e.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostGetMocker.Mock method" Url="html/ca20a583-b5a9-33d3-ea13-2fe7d8755180.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostLabelAddItemMocker class" Url="html/78348764-a2c9-60ef-1b21-3d63705f1d96.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostLabelAddItemMocker.Mock method" Url="html/18b77835-afb8-d3e9-99e5-1aa962134d08.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostLabelDeleteMocker class" Url="html/1e48c5f9-c142-d1d6-f4e0-2ac36bcb55c1.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostLabelDeleteMocker.Mock method" Url="html/22f0d3d5-a23a-2a41-8a4f-5a272d96ab39.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostLabelMocker class" Url="html/9d7a2e42-0153-e21f-32fd-2c195abf62b8.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostLabelMocker.Mock method" Url="html/1afa43d5-8056-5064-7d94-95e6482e01e5.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostLabelModifyMocker class" Url="html/41e4b05e-2571-e731-b6bd-24bd9f7623e4.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostLabelModifyMocker.Mock method" Url="html/a02c726e-936a-96f7-73d0-c76dbce91883.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostLockMocker class" Url="html/0b6c2a38-4b6a-df3c-77cf-4498760a9270.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostLockMocker.Mock method" Url="html/8a293a0c-2ba1-f91d-4727-535f2ddd591e.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostMoveFolderMocker class" Url="html/7b3fcb50-6b51-ac5b-7822-bfe191a6f4de.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostMoveFolderMocker.Mock method" Url="html/2bb4f74c-3473-d210-3876-7b3e7abcb967.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostMoveMocker class" Url="html/a6cef5d0-7fb9-59aa-daf7-2cc0a823f544.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostMoveMocker.Mock method" Url="html/22c0c920-7b6a-9800-2d35-70364f7cec8a.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostRenameFolderMocker class" Url="html/9e5b0649-96c2-46a8-ef7f-7cf80df5517f.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostRenameFolderMocker.Mock method" Url="html/93dad001-6314-7bdf-2488-9d6762559e09.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostRenameMocker class" Url="html/c7454a8a-07d2-ec5a-aacb-fcfbac0bafd9.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostRenameMocker.Mock method" Url="html/585fdf73-461e-7919-50b2-75b19a1daf01.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostShareMocker class" Url="html/7b3f4973-5914-9ab7-02d3-26634f24df64.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostShareMocker.Mock method" Url="html/bbd415f7-8bac-e7a9-0d70-6790d9e08803.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostStateMocker class" Url="html/6ab346a6-8769-94a4-889e-142465cf323a.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostStateMocker.Mock method" Url="html/6ac6b760-a93e-ede8-8466-ae532ad9e9c7.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostUndoLockMocker class" Url="html/1bc510ce-a8ac-b891-c348-d81c84e5c0c1.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostUndoLockMocker.Mock method" Url="html/6dc08976-8c81-1636-d999-79bbf93b1caa.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostUnlockMocker class" Url="html/ee82fcc7-fba4-67d2-5efc-71895230c478.htm" />
+  <HelpKINode Title="EdmCmdMocker.PostUnlockMocker.Mock method" Url="html/bc57f465-2073-3154-5516-a8fd43018e03.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreAddFolderMocker class" Url="html/b96b5251-e0d2-f929-cf95-571524c43fde.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreAddFolderMocker.Mock method" Url="html/2b25c1d0-bae5-848f-a3fa-9c3d8624355d.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreAddMocker class" Url="html/8b17e311-f87c-953e-31df-473961c8a478.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreAddMocker.Mock method" Url="html/cc560b04-dbf0-de92-be92-7764f3d92498.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreCopyFolderMocker class" Url="html/685b9599-59bb-8e80-8bcf-e2722b6f0b62.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreCopyFolderMocker.Mock method" Url="html/a8c5f0c4-775c-44b6-43d8-a500cc8d184b.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreCopyMocker class" Url="html/92b6c2c5-256f-8ab8-2aaa-3c7f9ac051fd.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreCopyMocker.Mock method" Url="html/8880ec86-ee8b-a781-975f-a2a925ee96bf.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreDeleteFolderMocker class" Url="html/f5985095-407c-96b3-6c51-7a75bb13e7bc.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreDeleteFolderMocker.Mock method" Url="html/2d05aae2-1c93-3611-bdc2-b2ff3648346a.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreDeleteMocker class" Url="html/e784596e-d331-bbc0-c1c0-7284aaaa63a0.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreDeleteMocker.Mock method" Url="html/764f90f8-efe4-8d62-bcb9-ce52a2bc57f6.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreExploreInitMocker class" Url="html/0e3c30a0-8af1-aec1-9b3d-8552e72f6a6b.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreExploreInitMocker.Mock method" Url="html/60d4938b-ff31-9d15-9206-14bc63f40672.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreGetMocker class" Url="html/e2d2af36-0f9a-2cad-6a30-381ddae0a5d5.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreGetMocker.Mock method" Url="html/f31c6672-7684-a149-eab2-2d9e3c162481.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreLabelAddItemMocker class" Url="html/228f3ce8-593a-8ae2-c57b-7ad274b96184.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreLabelAddItemMocker.Mock method" Url="html/f14ae395-7e30-452d-96d7-f7b78ff2daaf.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreLabelDeleteMocker class" Url="html/e79bb2cf-d45a-43b1-9f64-8795ac9777b9.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreLabelDeleteMocker.Mock method" Url="html/b6de982c-972f-7bea-53b1-b48b4707fb63.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreLabelMocker class" Url="html/cc6887e8-0a9e-8a18-f37a-f19c88d5e304.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreLabelMocker.Mock method" Url="html/5fae0c6a-a824-3f46-db07-042699fb4c39.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreLabelModifyMocker class" Url="html/3c829bf2-2fcd-b7e8-4f8f-87ab02468734.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreLabelModifyMocker.Mock method" Url="html/e3d0047f-4409-0058-2444-11ba1677e729.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreLockMocker class" Url="html/35a049d8-0fdc-9d62-49f1-65e4e3f140d3.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreLockMocker.Mock method" Url="html/f68c1da5-ee05-06d1-17ed-bb5e33e484f8.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreMoveFolderMocker class" Url="html/ba215cdd-e0ce-2f5d-e1c5-8768b981638b.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreMoveFolderMocker.Mock method" Url="html/53bf281e-5e67-0221-f9ac-4a921eebd636.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreMoveMocker class" Url="html/84e5f302-f951-6e78-803e-5fbd0e04ee1d.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreMoveMocker.Mock method" Url="html/4f583e3f-ef39-1b21-4caa-4b828a322127.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreRenameFolderMocker class" Url="html/34a9a032-9239-0ea0-6858-e86b9eed703c.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreRenameFolderMocker.Mock method" Url="html/e8696430-7450-8346-c390-a40304a3e5f5.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreRenameMocker class" Url="html/a86e7e38-b5ed-14c5-3913-6672ec2095b4.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreRenameMocker.Mock method" Url="html/472adac0-479e-5569-ab32-058ee03d7d0c.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreShareMocker class" Url="html/42aae1ba-d366-217f-5e79-ba141671fdb6.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreShareMocker.Mock method" Url="html/adffc915-567c-a08c-ca87-16c146ea28b7.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreStateMocker class" Url="html/b419784a-788a-5d17-4a2b-7c68e1b13903.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreStateMocker.Mock method" Url="html/9c95ac0e-9c90-dfe1-af8b-5cff85f13efe.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreUndoLockMocker class" Url="html/64f22cae-f186-fad1-5804-2dfa2eaab2fd.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreUndoLockMocker.Mock method" Url="html/1a25afd3-f5c4-1269-dc59-3523c1fe1657.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreUnlockMocker class" Url="html/94644714-d917-dcc8-c975-eaa9caf21a08.htm" />
+  <HelpKINode Title="EdmCmdMocker.PreUnlockMocker.Mock method" Url="html/7fb44ad8-05f0-ca1b-ace0-d4703bfe67bd.htm" />
+  <HelpKINode Title="EdmCmdMocker.SerialNoMocker class" Url="html/18958bf4-dee9-2db6-aa46-c11862461b7c.htm" />
+  <HelpKINode Title="EdmCmdMocker.SerialNoMocker.Mock method" Url="html/44c5bff7-e93f-d640-2e4e-7d1c64778ec0.htm" />
+  <HelpKINode Title="EdmCmdMocker.TaskDetailsMocker class" Url="html/5665c8c2-bfcd-a858-35be-f5bd210ac0e3.htm" />
+  <HelpKINode Title="EdmCmdMocker.TaskDetailsMocker.Mock method" Url="html/f5200bcb-c483-13d8-cfcc-1d00360ccb9c.htm" />
+  <HelpKINode Title="EdmCmdMocker.TaskLaunchButtonMocker class" Url="html/96c6826a-fd20-17b8-6029-5fb79b08b6c5.htm" />
+  <HelpKINode Title="EdmCmdMocker.TaskLaunchButtonMocker.Mock method" Url="html/cb526c28-0c21-1a9c-3f6a-cdff6a9c0aa4.htm" />
+  <HelpKINode Title="EdmCmdMocker.TaskLaunchMocker class" Url="html/a08246b2-ccd6-788a-769b-ab8e9e4b064a.htm" />
+  <HelpKINode Title="EdmCmdMocker.TaskLaunchMocker.Mock method" Url="html/b8f0bfb5-2eba-f3eb-163e-e0bd48f99b7d.htm" />
+  <HelpKINode Title="EdmCmdMocker.TaskRunMocker class" Url="html/0ed9fdf2-3789-cf8b-3493-fd6a7f1895c1.htm" />
+  <HelpKINode Title="EdmCmdMocker.TaskRunMocker.Mock method" Url="html/ad798d78-885c-31a5-e8fd-270d4f2fc2c8.htm" />
+  <HelpKINode Title="EdmCmdMocker.TaskSetupButtonMocker class" Url="html/4b74b20a-c6a1-32e6-d93c-ff059847acfe.htm" />
+  <HelpKINode Title="EdmCmdMocker.TaskSetupButtonMocker.Mock method" Url="html/70461b56-06ab-a461-449e-120c7c73e888.htm" />
+  <HelpKINode Title="EdmCmdMocker.TaskSetupMocker class" Url="html/09c35d36-27c6-768f-987b-e75c59f464e7.htm" />
+  <HelpKINode Title="EdmCmdMocker.TaskSetupMocker.Mock method" Url="html/427c0af8-d358-4a49-e0d2-6d407b16e04d.htm" />
+  <HelpKINode Title="EdmCmdNode class">
+    <HelpKINode Title="EdmCmdNode Class" Url="html/6ed904b7-c905-7d24-3a65-db258ddd419a.htm" />
+    <HelpKINode Title="methods" Url="html/bf928eab-135e-581c-249a-ea45a8122f85.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmdNode.GetProperty method" Url="html/c27a76de-006e-9049-4447-5f3294e1ad6e.htm" />
+  <HelpKINode Title="EdmCmd_ActivateAPITab property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_ActivateAPITab Property " Url="html/ac717a67-33a7-fd90-6925-6afda0017047.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_ActivateAPITab Property " Url="html/59cf1599-93e1-9ad2-a656-de471f9d21ab.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_CardButton property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_CardButton Property " Url="html/e905565f-9188-4de4-9d1d-be04ece14f9a.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_CardButton Property " Url="html/bd288ae6-fb84-214d-4acc-b1b7f1ee9c2f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_CardInput property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_CardInput Property " Url="html/f4db4ba2-0e61-64dc-c8ed-35c1f4eb6224.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_CardInput Property " Url="html/df648e4f-016d-b724-b1a1-3b65815876b6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_CardListSrc property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_CardListSrc Property " Url="html/5a6c33e7-80fe-c101-bd62-5f4e31a89e70.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_CardListSrc Property " Url="html/570d4737-24df-1367-49aa-796d2bb09955.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_Menu property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_Menu Property " Url="html/fc8a97f2-0aea-fd62-5b17-a7f734bf8b9a.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_Menu Property " Url="html/82f45e2d-9e32-b162-ed76-46c244a77f30.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PostAdd property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostAdd Property " Url="html/0f8a824a-3673-a8ab-e965-10d7f8fba5b0.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PostAdd Property " Url="html/6d0e7aa4-aa63-b5cd-6cfd-3a49002128e1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PostAddFolder property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostAddFolder Property " Url="html/73b16b31-38b9-4d98-71b9-411892f360b4.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PostAddFolder Property " Url="html/a100917d-d1cb-8c94-592d-cf5041189158.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PostCopy property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostCopy Property " Url="html/6715c590-980f-974d-a876-3b555dd31c9a.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PostCopy Property " Url="html/983d8014-b572-d644-4503-6f5144e2807b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PostCopyFolder property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostCopyFolder Property " Url="html/cecf4e22-d8a7-bd7f-0934-dfd7301ab6de.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PostCopyFolder Property " Url="html/c29fa247-fce9-f4f6-745f-085b196a7d74.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PostDelete property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostDelete Property " Url="html/6f794047-2bcb-bbe4-d3a0-37fb84ab3e82.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PostDelete Property " Url="html/f8e15457-c9b0-398b-49a7-ae8279bcaff3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PostDeleteFolder property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostDeleteFolder Property " Url="html/bce90ba8-b0d6-6a79-eb85-496112aef9f3.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PostDeleteFolder Property " Url="html/f2e4312e-9148-3e55-089f-7be7adf821dd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PostGet property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostGet Property " Url="html/08012975-2cb5-5fac-8461-36a4dbe92645.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PostGet Property " Url="html/2731ec6d-c124-180d-721c-9fcaf48b2f60.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PostLabel property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostLabel Property " Url="html/cca8f345-fc7e-f19e-75f1-24a50fd2bf85.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PostLabel Property " Url="html/b007e9eb-77d3-467e-8971-9be6d27cb98b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PostLabelAddItem property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostLabelAddItem Property " Url="html/81056c71-d485-7a80-b7d6-d2dc74bdc3d0.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PostLabelAddItem Property " Url="html/14e44db6-4c9a-5242-8f6d-e37bc3485ec3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PostLabelDelete property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostLabelDelete Property " Url="html/bc88ee56-9bca-dca1-6d29-005c681e1f18.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PostLabelDelete Property " Url="html/efdaf168-3993-84b7-da6c-3a02bac227ae.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PostLabelModify property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostLabelModify Property " Url="html/8aae7759-afb7-0ac0-e9df-d0f8ba72f3c2.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PostLabelModify Property " Url="html/ef4f854a-19d7-3a1d-76e2-9d1f0f02e820.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PostLock property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostLock Property " Url="html/444b9431-332f-398e-3f20-7ebf1475f302.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PostLock Property " Url="html/1a317917-296e-7227-5689-002c874f6fa4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PostMove property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostMove Property " Url="html/077c17a0-6024-5bba-8a14-622b6fed49cd.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PostMove Property " Url="html/55261c26-b43b-c539-c059-7c77e910eeb4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PostMoveFolder property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostMoveFolder Property " Url="html/a13e4d13-f629-2248-3270-ef7a95233f06.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PostMoveFolder Property " Url="html/cd2fd08e-9986-b27b-27fe-105a404da42c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PostRename property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostRename Property " Url="html/0e6539bc-20b1-b3b0-2352-5e77addbcfd3.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PostRename Property " Url="html/22b75385-e77f-4db0-5145-8d54ce2f2d5b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PostRenameFolder property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostRenameFolder Property " Url="html/fb0dd1c5-2c7e-af0c-e42c-e8a7ae949818.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PostRenameFolder Property " Url="html/f03b9332-7c5a-741d-2c48-80b55ea1adaf.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PostShare property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostShare Property " Url="html/4181c5c3-049c-b795-4118-29154b34a47a.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PostShare Property " Url="html/04407eb5-98e4-5f1c-1bb9-626397b557ff.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PostState property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostState Property " Url="html/db1d080e-285d-4160-3852-395b5a0fb03e.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PostState Property " Url="html/07f15de6-bbc2-d473-9c31-7d25cb1c25a4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PostUndoLock property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostUndoLock Property " Url="html/2a9511a2-bfe7-cd78-9537-2ee58ad07ca7.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PostUndoLock Property " Url="html/f1d29109-f233-da51-37e4-cb0794484024.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PostUnlock property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PostUnlock Property " Url="html/1bf0098f-ec31-f216-065a-ddf510a191a0.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PostUnlock Property " Url="html/f093f1e6-b578-bdac-0f74-00d653a2d357.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PreAdd property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreAdd Property " Url="html/c70bfde6-9243-5826-b7bb-526caf13bdbd.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PreAdd Property " Url="html/e991106e-be48-f1ff-bc32-aa38c2ac47cf.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PreAddFolder property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreAddFolder Property " Url="html/1dea9610-09dc-79ee-cdfd-7f1b5280280b.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PreAddFolder Property " Url="html/c49850d0-9e08-76fa-6646-1c6813c6414e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PreCopy property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreCopy Property " Url="html/6c6d22b9-bcfa-2644-e907-6b1a5cc01600.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PreCopy Property " Url="html/b8dfd03c-509e-624c-eb71-6bda8fc8e3d4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PreCopyFolder property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreCopyFolder Property " Url="html/656b5805-8bd4-494c-5c49-d4db6f55fb13.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PreCopyFolder Property " Url="html/79ad9d2f-0324-98d9-f6e0-3224c949394c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PreDelete property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreDelete Property " Url="html/a93ede19-9815-9d8e-5ed0-f219aa13bab6.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PreDelete Property " Url="html/e0823727-9506-08b8-f493-416886d32530.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PreDeleteFolder property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreDeleteFolder Property " Url="html/f2e1026d-16ae-2bd0-48e2-aad3ce45d7e6.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PreDeleteFolder Property " Url="html/e6b82477-76fc-b27d-286d-dedd13c3e95d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PreExploreInit property" Url="html/8bbd940e-481b-f73d-e7f2-bef46bb5f209.htm" />
+  <HelpKINode Title="EdmCmd_PreGet property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreGet Property " Url="html/c4d80099-586a-952e-66a2-44a3495e5a81.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PreGet Property " Url="html/a4868be3-56be-6f94-eb0d-85826af4b0b9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PreLabel property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreLabel Property " Url="html/b2321a6d-7122-331c-88c0-b831a03da89e.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PreLabel Property " Url="html/6994eead-154e-65e1-3b3d-bbd6cd12c907.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PreLabelAddItem property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreLabelAddItem Property " Url="html/ce6860b4-641b-0934-1f76-a55be56ecf42.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PreLabelAddItem Property " Url="html/03fcff8e-bbfd-bf61-c7f0-3d228e65f59a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PreLabelDelete property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreLabelDelete Property " Url="html/9b5e4deb-f978-98db-894d-f5a76cfc65f3.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PreLabelDelete Property " Url="html/e164f30a-c495-cb3b-5d65-351955b08998.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PreLabelModify property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreLabelModify Property " Url="html/4b529770-981e-3819-ece7-b92f5a3557f3.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PreLabelModify Property " Url="html/44d1dd0e-a00b-62cc-0bec-78c115fc5d3d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PreLock property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreLock Property " Url="html/94534b22-53ce-04b6-6b57-8ff1266fbc3c.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PreLock Property " Url="html/43e822eb-202e-1719-f3d4-9b182e5ffc89.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PreMove property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreMove Property " Url="html/84b86d9f-bbcd-6016-9baa-09f79340381c.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PreMove Property " Url="html/66d3ccc7-9e55-d251-09e9-e0efe4b689c0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PreMoveFolder property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreMoveFolder Property " Url="html/e0a6bf4e-fb55-a04c-ae6d-ee56f37d7db2.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PreMoveFolder Property " Url="html/7ae4bd9a-8756-5501-9e05-d6d7849e1ea5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PreRename property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreRename Property " Url="html/dc704419-dba4-86c0-5989-1361465780f3.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PreRename Property " Url="html/510aa4fe-6567-c0b1-3729-9a2ca3040541.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PreRenameFolder property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreRenameFolder Property " Url="html/6ead1716-ecde-7332-ffeb-b1350a5dc69e.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PreRenameFolder Property " Url="html/baa72b47-fb87-d109-fe77-fdb81e370a63.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PreShare property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreShare Property " Url="html/71d65cdf-3f38-b172-072f-3f62242e8680.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PreShare Property " Url="html/42d5a781-2cff-edf5-fbb0-1f77c5b75353.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PreState property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreState Property " Url="html/a81c9fb2-1d31-5549-2ad4-462216cde4c2.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PreState Property " Url="html/c95f1b4f-f209-7a3d-c4ab-fd30e56c9df8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PreUndoLock property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreUndoLock Property " Url="html/f740a2bc-b32d-ce12-73e3-b0e9603e9896.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PreUndoLock Property " Url="html/f7f9b6f2-dea4-884c-3f83-4ae8b5414ac2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_PreUnlock property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_PreUnlock Property " Url="html/5f8d3200-d804-660c-c1fc-8e0ce764c74e.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_PreUnlock Property " Url="html/0b528754-3040-f560-08df-d795a43045b0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_SerialNo property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_SerialNo Property " Url="html/c716b269-5254-7ae4-b989-6b12fb42c4e6.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_SerialNo Property " Url="html/f45d127e-aebf-2655-e1f6-668b825cbb0e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_TaskDetails property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_TaskDetails Property " Url="html/6ad5006c-ceb5-6d9d-6484-016daf15644c.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_TaskDetails Property " Url="html/ae1fd174-f4a2-af7e-7d25-0b9c3ae2fc06.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_TaskLaunch property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_TaskLaunch Property " Url="html/a66ab73b-8828-edce-0d69-d9658663f938.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_TaskLaunch Property " Url="html/b2116f37-3c60-5143-b419-f6ff1ed3413a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_TaskLaunchButton property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_TaskLaunchButton Property " Url="html/d2e9fa67-3f7b-e6a9-256c-4f172721e2fe.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_TaskLaunchButton Property " Url="html/b31a5361-941b-5d2a-29ab-f358b374f15f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_TaskRun property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_TaskRun Property " Url="html/3c6b909b-91bb-1e1d-b588-73ff136d91e5.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_TaskRun Property " Url="html/03a7b821-1783-55e9-c6ed-b055c59a05ad.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_TaskSetup property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_TaskSetup Property " Url="html/0e668ac9-2460-9b5f-8a5b-75f240b853f0.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_TaskSetup Property " Url="html/1782b571-23cd-e2af-a9c2-e68e75521631.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmCmd_TaskSetupButton property">
+    <HelpKINode Title="EdmCmdDataMocker.EdmCmd_TaskSetupButton Property " Url="html/a57922ed-b8c9-8998-4a7c-47a078139627.htm" />
+    <HelpKINode Title="EdmCmdMocker.EdmCmd_TaskSetupButton Property " Url="html/855a0fef-24df-94cb-8d83-d863bb51ab3a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmTaskExtensions class">
+    <HelpKINode Title="EdmTaskExtensions Class" Url="html/d6cdfebf-9413-4024-a853-fa19c00aadec.htm" />
+    <HelpKINode Title="methods" Url="html/4d5e726b-bcb6-5ad6-d354-49e0c19fa6c0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdmTaskExtensions.CopyFrom method" Url="html/74972381-2273-f5cd-d06d-d13f3ba5bd90.htm" />
+  <HelpKINode Title="EdmTaskExtensions.Save method" Url="html/6bebef8a-4033-1afc-b73a-a7918e6ee336.htm" />
+  <HelpKINode Title="EnforceLogin property" Url="html/fe5dd04f-29c5-84c5-469d-29b3d53382f3.htm" />
+  <HelpKINode Title="GetAddInName(Of T) method" Url="html/1bfc547a-763f-bee7-2b77-e58370380454.htm" />
+  <HelpKINode Title="GetAddInName&lt;T&gt; method" Url="html/1bfc547a-763f-bee7-2b77-e58370380454.htm" />
+  <HelpKINode Title="GetIEdmUserByUsername method" Url="html/d53b7a8a-738e-8aab-69df-0983e3b9d987.htm" />
+  <HelpKINode Title="GetMocker class">
+    <HelpKINode Title="methods" Url="html/93c991db-3e99-bd31-8528-d57ee4984b26.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetProperty method" Url="html/c27a76de-006e-9049-4447-5f3294e1ad6e.htm" />
+  <HelpKINode Title="GetStateByName method" Url="html/91311388-92e4-7bb5-ef37-47e270418479.htm" />
+  <HelpKINode Title="GetTransitionByName method" Url="html/f5f541af-592b-4931-aac5-a95958806d44.htm" />
+  <HelpKINode Title="GetWorkflowByName method" Url="html/0242c53f-d3d2-e511-b69b-304f878c2aee.htm" />
+  <HelpKINode Title="LabelAddItemMocker class">
+    <HelpKINode Title="methods" Url="html/3567a1aa-e25f-2f78-b91d-b6ad7c8c8303.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LabelDeleteModifyMocker class">
+    <HelpKINode Title="methods" Url="html/de816f8f-60a8-e716-2186-f751fb30fb96.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LicenseValidationFailedException class">
+    <HelpKINode Title="LicenseValidationFailedException Class" Url="html/7396764a-0fb8-5de8-b2c3-57ff4e309a17.htm" />
+    <HelpKINode Title="constructor" Url="html/bb31a982-47e4-c73a-f2bc-bbffa14c0f0a.htm" />
+    <HelpKINode Title="events" Url="html/b8579ae0-7647-1348-eca8-71fb5de3278f.htm" />
+    <HelpKINode Title="methods" Url="html/a1efcd04-3d11-9060-02c0-cd8878437157.htm" />
+    <HelpKINode Title="properties" Url="html/49964826-d996-c91c-2d9e-52d311781fb5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LicenseValidationFailedException.LicenseValidationFailedException constructor" Url="html/bb31a982-47e4-c73a-f2bc-bbffa14c0f0a.htm" />
+  <HelpKINode Title="LockMocker class">
+    <HelpKINode Title="methods" Url="html/4d4915a2-1466-d188-7fb1-15b3ff352167.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoginTo method" Url="html/7a6408c2-99b3-6a0d-39d9-dd1b8181a879.htm" />
+  <HelpKINode Title="MenuMocker class">
+    <HelpKINode Title="methods" Url="html/d0855139-8818-86b5-b1ec-36d47fa4dc5a.htm" />
+    <HelpKINode Title="methods" Url="html/ebd6a22d-7f6a-49e0-6c6b-908a6e9d1622.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Mock method">
+    <HelpKINode Title="CardButtonMocker.Mock Method " Url="html/f793483a-43ea-58ad-688a-fa18b41ea9f7.htm" />
+    <HelpKINode Title="CardInputMocker.Mock Method " Url="html/16ea16ab-3adb-f4ce-437c-54a62097bcae.htm" />
+    <HelpKINode Title="CardListSrcMocker.Mock Method " Url="html/610b72ff-9f54-62c6-aad8-6534d011344f.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.ActivateAPITabMocker.Mock Method " Url="html/6a2959fd-e327-2e1d-ad3c-574b4ef8ca2b.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.CopyMocker.Mock Method " Url="html/95b7bb46-e6e0-bd6a-f513-07c5b3b9f214.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.DeleteFolderMocker.Mock Method " Url="html/6af4c185-2e3a-d04c-632a-bb474b25505a.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.GetMocker.Mock Method " Url="html/f2159472-ddb1-d384-1f02-d4d593b24ab3.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.LabelDeleteModifyMocker.Mock Method " Url="html/3e0c837d-110f-7514-7c90-14e4ce432265.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.LockMocker.Mock Method " Url="html/759bb15d-cd07-eb69-d28f-5d619778a449.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.MoveFolderMocker.Mock Method " Url="html/359f4d02-df1d-f9e2-bbb9-49d3b14319ed.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.MoveMocker.Mock Method " Url="html/92662804-3011-4aac-62dc-6af84d457b44.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.PostAddFolderMocker.Mock Method " Url="html/bfbbb923-87d5-3edf-b2d1-f7c5751ed336.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.PostAddMocker.Mock Method " Url="html/f10f8a12-a587-1df1-86d7-f095a5a00098.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.PostCopyFolderMocker.Mock Method " Url="html/5245e781-1a8d-1b60-245f-35b5b8e6dd7e.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.PostDeleteMocker.Mock Method " Url="html/72a85db6-2972-f635-0fc3-4e651fce7448.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.PreAddFolderMocker.Mock Method " Url="html/07677f6a-1973-3ea5-17c8-730689a9a799.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.PreAddMocker.Mock Method " Url="html/db1eb444-e7cc-6bd1-3b4b-cc8d06134025.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.PreCopyFolderMocker.Mock Method " Url="html/be314583-7b9c-d185-2752-a10e7c93f99f.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.PreDeleteMocker.Mock Method " Url="html/2ca0b3aa-406e-5eec-d36d-038b5ac48fcd.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.RenameFolderMocker.Mock Method " Url="html/51450f66-da39-0195-0cf0-f4c6bb2ed840.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.RenameMocker.Mock Method " Url="html/d0765a38-6f61-8b74-0558-bee8d671e61e.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.ShareMocker.Mock Method " Url="html/f25dd9cd-7bad-a174-20e3-3ef4d43fc2c7.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.StateMocker.Mock Method " Url="html/0c1738eb-2ba7-0b9e-f21f-3737a0e2d0bd.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.TaskDetailsMocker.Mock Method " Url="html/67277963-86ca-8cf2-f5c1-d933822290e5.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.TaskLaunchButtonMocker.Mock Method " Url="html/fc6d0018-adb1-5174-3db9-6f0e91b11aee.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.TaskLaunchMocker.Mock Method " Url="html/39d51c19-f7cb-4114-ad25-71e11152b6f8.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.TaskRunMocker.Mock Method " Url="html/0c77adc5-2610-686a-97c9-3ada4f2ef0e6.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.TaskSetupButtonMocker.Mock Method " Url="html/9609b6dd-817f-6df3-5d1c-381af9d348a5.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.TaskSetupMocker.Mock Method " Url="html/7e948109-d57b-36c8-cc88-cfcdd209ab91.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.UndoLockMocker.Mock Method " Url="html/da9f34c1-6619-bfe0-7f25-36471316bd5d.htm" />
+    <HelpKINode Title="EdmCmdDataMocker.UnlockMocker.Mock Method " Url="html/d2245249-5c3c-c4c2-529f-956abeba78af.htm" />
+    <HelpKINode Title="EdmCmdMocker.ActivateAPITabMocker.Mock Method " Url="html/8fa9b23b-6906-0204-e503-830ea2b00ec6.htm" />
+    <HelpKINode Title="EdmCmdMocker.CardButtonMocker.Mock Method " Url="html/9f20260c-9614-b127-9654-597e874f1664.htm" />
+    <HelpKINode Title="EdmCmdMocker.CardInputMocker.Mock Method " Url="html/55d17be6-88e2-569e-dd07-f8935efcadf9.htm" />
+    <HelpKINode Title="EdmCmdMocker.CardListSrcMocker.Mock Method " Url="html/3f90b5ad-a76c-5e9b-869f-48dc03b5bb81.htm" />
+    <HelpKINode Title="EdmCmdMocker.MenuMocker.Mock Method " Url="html/54f19273-0293-89ac-6e81-54bcf52556a6.htm" />
+    <HelpKINode Title="EdmCmdMocker.PostAddFolderMocker.Mock Method " Url="html/85496ab0-9f99-53d2-b59c-f063b35dbf29.htm" />
+    <HelpKINode Title="EdmCmdMocker.PostAddMocker.Mock Method " Url="html/5cd01c42-4149-d589-6a4e-1d2bd15557e6.htm" />
+    <HelpKINode Title="EdmCmdMocker.PostCopyFolderMocker.Mock Method " Url="html/79168a01-2168-18fc-86ff-aba518f8dff2.htm" />
+    <HelpKINode Title="EdmCmdMocker.PostCopyMocker.Mock Method " Url="html/32d8b0d4-151a-d058-a978-d8057b0362c5.htm" />
+    <HelpKINode Title="EdmCmdMocker.PostDeleteFolderMocker.Mock Method " Url="html/e2174039-0981-5242-3ff9-4c35e4f31891.htm" />
+    <HelpKINode Title="EdmCmdMocker.PostDeleteMocker.Mock Method " Url="html/e6e09635-c49d-8775-86c8-b71c326dd99e.htm" />
+    <HelpKINode Title="EdmCmdMocker.PostGetMocker.Mock Method " Url="html/ca20a583-b5a9-33d3-ea13-2fe7d8755180.htm" />
+    <HelpKINode Title="EdmCmdMocker.PostLabelAddItemMocker.Mock Method " Url="html/18b77835-afb8-d3e9-99e5-1aa962134d08.htm" />
+    <HelpKINode Title="EdmCmdMocker.PostLabelDeleteMocker.Mock Method " Url="html/22f0d3d5-a23a-2a41-8a4f-5a272d96ab39.htm" />
+    <HelpKINode Title="EdmCmdMocker.PostLabelMocker.Mock Method " Url="html/1afa43d5-8056-5064-7d94-95e6482e01e5.htm" />
+    <HelpKINode Title="EdmCmdMocker.PostLabelModifyMocker.Mock Method " Url="html/a02c726e-936a-96f7-73d0-c76dbce91883.htm" />
+    <HelpKINode Title="EdmCmdMocker.PostLockMocker.Mock Method " Url="html/8a293a0c-2ba1-f91d-4727-535f2ddd591e.htm" />
+    <HelpKINode Title="EdmCmdMocker.PostMoveFolderMocker.Mock Method " Url="html/2bb4f74c-3473-d210-3876-7b3e7abcb967.htm" />
+    <HelpKINode Title="EdmCmdMocker.PostMoveMocker.Mock Method " Url="html/22c0c920-7b6a-9800-2d35-70364f7cec8a.htm" />
+    <HelpKINode Title="EdmCmdMocker.PostRenameFolderMocker.Mock Method " Url="html/93dad001-6314-7bdf-2488-9d6762559e09.htm" />
+    <HelpKINode Title="EdmCmdMocker.PostRenameMocker.Mock Method " Url="html/585fdf73-461e-7919-50b2-75b19a1daf01.htm" />
+    <HelpKINode Title="EdmCmdMocker.PostShareMocker.Mock Method " Url="html/bbd415f7-8bac-e7a9-0d70-6790d9e08803.htm" />
+    <HelpKINode Title="EdmCmdMocker.PostStateMocker.Mock Method " Url="html/6ac6b760-a93e-ede8-8466-ae532ad9e9c7.htm" />
+    <HelpKINode Title="EdmCmdMocker.PostUndoLockMocker.Mock Method " Url="html/6dc08976-8c81-1636-d999-79bbf93b1caa.htm" />
+    <HelpKINode Title="EdmCmdMocker.PostUnlockMocker.Mock Method " Url="html/bc57f465-2073-3154-5516-a8fd43018e03.htm" />
+    <HelpKINode Title="EdmCmdMocker.PreAddFolderMocker.Mock Method " Url="html/2b25c1d0-bae5-848f-a3fa-9c3d8624355d.htm" />
+    <HelpKINode Title="EdmCmdMocker.PreAddMocker.Mock Method " Url="html/cc560b04-dbf0-de92-be92-7764f3d92498.htm" />
+    <HelpKINode Title="EdmCmdMocker.PreCopyFolderMocker.Mock Method " Url="html/a8c5f0c4-775c-44b6-43d8-a500cc8d184b.htm" />
+    <HelpKINode Title="EdmCmdMocker.PreCopyMocker.Mock Method " Url="html/8880ec86-ee8b-a781-975f-a2a925ee96bf.htm" />
+    <HelpKINode Title="EdmCmdMocker.PreDeleteFolderMocker.Mock Method " Url="html/2d05aae2-1c93-3611-bdc2-b2ff3648346a.htm" />
+    <HelpKINode Title="EdmCmdMocker.PreDeleteMocker.Mock Method " Url="html/764f90f8-efe4-8d62-bcb9-ce52a2bc57f6.htm" />
+    <HelpKINode Title="EdmCmdMocker.PreExploreInitMocker.Mock Method " Url="html/60d4938b-ff31-9d15-9206-14bc63f40672.htm" />
+    <HelpKINode Title="EdmCmdMocker.PreGetMocker.Mock Method " Url="html/f31c6672-7684-a149-eab2-2d9e3c162481.htm" />
+    <HelpKINode Title="EdmCmdMocker.PreLabelAddItemMocker.Mock Method " Url="html/f14ae395-7e30-452d-96d7-f7b78ff2daaf.htm" />
+    <HelpKINode Title="EdmCmdMocker.PreLabelDeleteMocker.Mock Method " Url="html/b6de982c-972f-7bea-53b1-b48b4707fb63.htm" />
+    <HelpKINode Title="EdmCmdMocker.PreLabelMocker.Mock Method " Url="html/5fae0c6a-a824-3f46-db07-042699fb4c39.htm" />
+    <HelpKINode Title="EdmCmdMocker.PreLabelModifyMocker.Mock Method " Url="html/e3d0047f-4409-0058-2444-11ba1677e729.htm" />
+    <HelpKINode Title="EdmCmdMocker.PreLockMocker.Mock Method " Url="html/f68c1da5-ee05-06d1-17ed-bb5e33e484f8.htm" />
+    <HelpKINode Title="EdmCmdMocker.PreMoveFolderMocker.Mock Method " Url="html/53bf281e-5e67-0221-f9ac-4a921eebd636.htm" />
+    <HelpKINode Title="EdmCmdMocker.PreMoveMocker.Mock Method " Url="html/4f583e3f-ef39-1b21-4caa-4b828a322127.htm" />
+    <HelpKINode Title="EdmCmdMocker.PreRenameFolderMocker.Mock Method " Url="html/e8696430-7450-8346-c390-a40304a3e5f5.htm" />
+    <HelpKINode Title="EdmCmdMocker.PreRenameMocker.Mock Method " Url="html/472adac0-479e-5569-ab32-058ee03d7d0c.htm" />
+    <HelpKINode Title="EdmCmdMocker.PreShareMocker.Mock Method " Url="html/adffc915-567c-a08c-ca87-16c146ea28b7.htm" />
+    <HelpKINode Title="EdmCmdMocker.PreStateMocker.Mock Method " Url="html/9c95ac0e-9c90-dfe1-af8b-5cff85f13efe.htm" />
+    <HelpKINode Title="EdmCmdMocker.PreUndoLockMocker.Mock Method " Url="html/1a25afd3-f5c4-1269-dc59-3523c1fe1657.htm" />
+    <HelpKINode Title="EdmCmdMocker.PreUnlockMocker.Mock Method " Url="html/7fb44ad8-05f0-ca1b-ace0-d4703bfe67bd.htm" />
+    <HelpKINode Title="EdmCmdMocker.SerialNoMocker.Mock Method " Url="html/44c5bff7-e93f-d640-2e4e-7d1c64778ec0.htm" />
+    <HelpKINode Title="EdmCmdMocker.TaskDetailsMocker.Mock Method " Url="html/f5200bcb-c483-13d8-cfcc-1d00360ccb9c.htm" />
+    <HelpKINode Title="EdmCmdMocker.TaskLaunchButtonMocker.Mock Method " Url="html/cb526c28-0c21-1a9c-3f6a-cdff6a9c0aa4.htm" />
+    <HelpKINode Title="EdmCmdMocker.TaskLaunchMocker.Mock Method " Url="html/b8f0bfb5-2eba-f3eb-163e-e0bd48f99b7d.htm" />
+    <HelpKINode Title="EdmCmdMocker.TaskRunMocker.Mock Method " Url="html/ad798d78-885c-31a5-e8fd-270d4f2fc2c8.htm" />
+    <HelpKINode Title="EdmCmdMocker.TaskSetupButtonMocker.Mock Method " Url="html/70461b56-06ab-a461-449e-120c7c73e888.htm" />
+    <HelpKINode Title="EdmCmdMocker.TaskSetupMocker.Mock Method " Url="html/427c0af8-d358-4a49-e0d2-6d407b16e04d.htm" />
+    <HelpKINode Title="LabelAddItemMocker.Mock Method " Url="html/81dc3892-3bab-18eb-9188-bd08afa5773a.htm" />
+    <HelpKINode Title="MenuMocker.Mock Method " Url="html/77023364-7fff-84ff-1708-7df6843a4c55.htm" />
+    <HelpKINode Title="PostLabelMocker.Mock Method " Url="html/a67844ff-b9c6-2753-8ac7-698d40084883.htm" />
+    <HelpKINode Title="PreLabelMocker.Mock Method " Url="html/c4a5269d-63ae-d266-5f36-18dd2f5c658b.htm" />
+    <HelpKINode Title="SerialNoMocker.Mock Method " Url="html/2a5e1017-0426-857f-c62a-3a154f91da1b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MockCmdMgr method" Url="html/3d00ad56-09d5-1e58-4843-c93ad90889ec.htm" />
+  <HelpKINode Title="MockEdmCmd property" Url="html/849d31c6-37c5-65f8-9ac5-2ab664578946.htm" />
+  <HelpKINode Title="MockEdmCmdData property" Url="html/371eba3d-aa97-4a79-b100-8d0c6c218720.htm" />
+  <HelpKINode Title="MockEdmCmdNode method" Url="html/60c9b804-f53b-0d27-50cf-8b3f920f2796.htm" />
+  <HelpKINode Title="MockEdmTaskInstance method" Url="html/a795a160-be26-a195-4acc-ce999e288280.htm" />
+  <HelpKINode Title="MockIEdmLabel method" Url="html/fbf4f7ac-cee3-cf70-72cd-1265b1583c02.htm" />
+  <HelpKINode Title="MockTaskProperties method" Url="html/b228a087-c994-2009-61eb-1be6cf91b91f.htm" />
+  <HelpKINode Title="MoveFolderMocker class">
+    <HelpKINode Title="methods" Url="html/77846b54-9a08-6b7e-63e6-d508de80203c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MoveMocker class">
+    <HelpKINode Title="methods" Url="html/ae7cc36b-4530-98fc-7f14-94e777090fb2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Name property" Url="html/d53395b2-4c43-ef44-84dd-79248cab53f4.htm" />
+  <HelpKINode Title="ObjectID enumeration member" Url="html/52ff68d2-9e9d-2ea6-aea2-73bded797570.htm" />
+  <HelpKINode Title="Password property" Url="html/0ed4d43f-5f42-6660-4db7-1e30b7690acc.htm" />
+  <HelpKINode Title="PDMFactory class">
+    <HelpKINode Title="PDMFactory Class" Url="html/4472f2b9-204e-ec71-13db-db5edb550307.htm" />
+    <HelpKINode Title="methods" Url="html/47def214-939c-8eab-c36f-8822ccfe2b00.htm" />
+    <HelpKINode Title="properties" Url="html/b166b216-56ef-2921-f0a6-ee1c37da5751.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PDMFactory.As(Of T) method" Url="html/00efa55a-be71-2b2a-8404-5ed5c6a569b8.htm" />
+  <HelpKINode Title="PDMFactory.As&lt;T&gt; method" Url="html/00efa55a-be71-2b2a-8404-5ed5c6a569b8.htm" />
+  <HelpKINode Title="PDMFactory.GetIEdmUserByUsername method" Url="html/d53b7a8a-738e-8aab-69df-0983e3b9d987.htm" />
+  <HelpKINode Title="PDMFactory.GetStateByName method" Url="html/91311388-92e4-7bb5-ef37-47e270418479.htm" />
+  <HelpKINode Title="PDMFactory.GetTransitionByName method" Url="html/f5f541af-592b-4931-aac5-a95958806d44.htm" />
+  <HelpKINode Title="PDMFactory.GetWorkflowByName method" Url="html/0242c53f-d3d2-e511-b69b-304f878c2aee.htm" />
+  <HelpKINode Title="PDMFactory.LoginTo method" Url="html/7a6408c2-99b3-6a0d-39d9-dd1b8181a879.htm" />
+  <HelpKINode Title="PDMFactory.ReturnValue property" Url="html/753e6d74-c1cc-c5e0-9b28-04c75be66af2.htm" />
+  <HelpKINode Title="PDMFactory.ThenGetFileByID method" Url="html/b22b59ed-3c8b-13ce-eb62-21fd770aa283.htm" />
+  <HelpKINode Title="PDMFactory.ThenGetFileByRelativePath method" Url="html/45d4b43e-2477-6909-8616-5a48caaac41e.htm" />
+  <HelpKINode Title="PDMFactory.ThenGetFirstFileBySearch method" Url="html/9ed1ff85-2628-c3aa-cdef-8112c8c72070.htm" />
+  <HelpKINode Title="PDMFactory.ThenGetFolderByRelativePath method" Url="html/e93fc8c0-9407-efb7-61a8-b7529493b1e7.htm" />
+  <HelpKINode Title="PDMFactory.ThenGetObjetByID(Of T) method" Url="html/924d60b6-0a22-44d6-80b3-98e560ebbd49.htm" />
+  <HelpKINode Title="PDMFactory.ThenGetObjetByID&lt;T&gt; method" Url="html/924d60b6-0a22-44d6-80b3-98e560ebbd49.htm" />
+  <HelpKINode Title="PDMFactory.UseThisVault method" Url="html/e6618218-51dd-d3ee-9626-5450cd16ee19.htm" />
+  <HelpKINode Title="PDMMockFactory class">
+    <HelpKINode Title="PDMMockFactory Class" Url="html/09dd3fc2-2051-5fe3-8ec8-5b436fc71da2.htm" />
+    <HelpKINode Title="methods" Url="html/3ea9f4b1-ec30-b1f5-0b59-e799671b2afb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PDMMockFactory.GetAddInName(Of T) method" Url="html/1bfc547a-763f-bee7-2b77-e58370380454.htm" />
+  <HelpKINode Title="PDMMockFactory.GetAddInName&lt;T&gt; method" Url="html/1bfc547a-763f-bee7-2b77-e58370380454.htm" />
+  <HelpKINode Title="PDMMockFactory.MockCmdMgr method" Url="html/3d00ad56-09d5-1e58-4843-c93ad90889ec.htm" />
+  <HelpKINode Title="PDMMockFactory.MockEdmCmdNode method" Url="html/60c9b804-f53b-0d27-50cf-8b3f920f2796.htm" />
+  <HelpKINode Title="PDMMockFactory.MockEdmTaskInstance method" Url="html/a795a160-be26-a195-4acc-ce999e288280.htm" />
+  <HelpKINode Title="PDMMockFactory.MockIEdmLabel method" Url="html/fbf4f7ac-cee3-cf70-72cd-1265b1583c02.htm" />
+  <HelpKINode Title="PDMMockFactory.MockTaskProperties method" Url="html/b228a087-c994-2009-61eb-1be6cf91b91f.htm" />
+  <HelpKINode Title="PDMTestMethod class">
+    <HelpKINode Title="PDMTestMethod Class" Url="html/6db07556-884c-efa3-7c98-157c16f1080e.htm" />
+    <HelpKINode Title="constructor" Url="html/98304d55-1c2b-d2e4-5684-190bd3a3dee4.htm" />
+    <HelpKINode Title="methods" Url="html/e6859903-e4f4-4834-2c17-d8d92328342c.htm" />
+    <HelpKINode Title="properties" Url="html/42d51f80-43d2-38b5-09ee-11bbde11fa4f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PDMTestMethod.PDMTestMethod constructor" Url="html/98304d55-1c2b-d2e4-5684-190bd3a3dee4.htm" />
+  <HelpKINode Title="PDMTestMethodParameter class">
+    <HelpKINode Title="PDMTestMethodParameter Class" Url="html/d6db51ad-5218-b108-521e-237228dd470a.htm" />
+    <HelpKINode Title="constructor" Url="html/d444b590-6eb9-9ece-25e9-3153d22b9862.htm" />
+    <HelpKINode Title="methods" Url="html/3fa854e2-702c-e319-f9fe-c27f21fdc903.htm" />
+    <HelpKINode Title="properties" Url="html/b43b42c3-7b8d-9b56-dfb3-5246bc945fd9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PDMTestMethodParameter.PDMTestMethodParameter constructor" Url="html/d444b590-6eb9-9ece-25e9-3153d22b9862.htm" />
+  <HelpKINode Title="PDMTestMethodParameter.Value property" Url="html/9a719231-c515-a55e-4adb-e308cfe753d0.htm" />
+  <HelpKINode Title="PDMTestMethodParameterType_e enumeration" Url="html/52ff68d2-9e9d-2ea6-aea2-73bded797570.htm" />
+  <HelpKINode Title="PostAddFolderMocker class">
+    <HelpKINode Title="methods" Url="html/e0f3215c-5004-cf53-694a-f0b6956f6a4a.htm" />
+    <HelpKINode Title="methods" Url="html/35532c53-2280-360b-7bab-8ad584faeafb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PostAddMocker class">
+    <HelpKINode Title="methods" Url="html/02a8a64c-3abc-4a5b-8948-b46bc35c01cb.htm" />
+    <HelpKINode Title="methods" Url="html/e1f30846-593e-214c-68ce-e8ab2a93bf31.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PostCopyFolderMocker class">
+    <HelpKINode Title="methods" Url="html/43cc46d8-c93b-c03c-5ae7-fa46719a68e5.htm" />
+    <HelpKINode Title="methods" Url="html/00ee0242-2c6a-e1d3-4440-c9f5f9dad1d1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PostCopyMocker class">
+    <HelpKINode Title="methods" Url="html/b8b65204-62d8-91ad-92ba-c3ff16b787f7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PostDeleteFolderMocker class">
+    <HelpKINode Title="methods" Url="html/0b93357d-c183-8eac-74ab-c30e6800a27c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PostDeleteMocker class">
+    <HelpKINode Title="methods" Url="html/3770585a-ad89-b07d-9765-a42bd88a2102.htm" />
+    <HelpKINode Title="methods" Url="html/ec5f7641-96c6-dbd6-8e5e-69bf7f08ff60.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PostGetMocker class">
+    <HelpKINode Title="methods" Url="html/a87b887a-8c64-041b-bdc3-b6c70e9236fc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PostLabelAddItemMocker class">
+    <HelpKINode Title="methods" Url="html/4a2644dc-edca-0537-20a1-381d4c8a40b7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PostLabelDeleteMocker class">
+    <HelpKINode Title="methods" Url="html/35988337-e3f1-ce73-9318-e4180f34b229.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PostLabelMocker class">
+    <HelpKINode Title="methods" Url="html/46bfdbbd-7501-cc88-4fd5-8c6e9db8a3a8.htm" />
+    <HelpKINode Title="methods" Url="html/b0a5fe9e-d5eb-660b-488b-189f979ca31e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PostLabelModifyMocker class">
+    <HelpKINode Title="methods" Url="html/075a7b47-e8c0-8d70-b5b7-d5f43c201b12.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PostLockMocker class">
+    <HelpKINode Title="methods" Url="html/486bd306-f6f7-af5e-e576-011230b54ecb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PostMoveFolderMocker class">
+    <HelpKINode Title="methods" Url="html/c05bbe00-7f67-02a6-447d-2c0c890e17cd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PostMoveMocker class">
+    <HelpKINode Title="methods" Url="html/1ab9124a-dea6-6af5-d4ab-2712067b925f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PostRenameFolderMocker class">
+    <HelpKINode Title="methods" Url="html/6d66a312-3c2f-a3b0-9933-1627fadec139.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PostRenameMocker class">
+    <HelpKINode Title="methods" Url="html/27de33b7-0cd3-48a5-731e-1d45a91325a8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PostShareMocker class">
+    <HelpKINode Title="methods" Url="html/b535c147-cb74-d315-3b6d-13be9f412c7b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PostStateMocker class">
+    <HelpKINode Title="methods" Url="html/975c97f9-0306-6ea0-1a9c-b5b1c2706fa1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PostUndoLockMocker class">
+    <HelpKINode Title="methods" Url="html/23e44822-6a31-db61-8c67-065cad0f4472.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PostUnlockMocker class">
+    <HelpKINode Title="methods" Url="html/3e9663fe-2c3d-4670-c46e-2ca41c224b51.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PreAddFolderMocker class">
+    <HelpKINode Title="methods" Url="html/2bb63bf4-1e7b-f2c5-8dbc-0c1c71e0bc6e.htm" />
+    <HelpKINode Title="methods" Url="html/b8dcdb51-8640-66f5-9c1c-34d98234d90c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PreAddMocker class">
+    <HelpKINode Title="methods" Url="html/7af9f30c-573e-c9d8-35bb-8965f294a801.htm" />
+    <HelpKINode Title="methods" Url="html/2931ca80-0ed9-cb36-7db3-a7402f3e0826.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PreCopyFolderMocker class">
+    <HelpKINode Title="methods" Url="html/e421b515-acb1-35f5-2d05-2e343bf3f5a0.htm" />
+    <HelpKINode Title="methods" Url="html/52db5e5a-3781-6596-4671-b74c77cb09a8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PreCopyMocker class">
+    <HelpKINode Title="methods" Url="html/349191f1-185f-b9e3-7105-617258717621.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PreDeleteFolderMocker class">
+    <HelpKINode Title="methods" Url="html/776caa65-2942-6b5c-52c7-67ad74485f45.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PreDeleteMocker class">
+    <HelpKINode Title="methods" Url="html/1e7d96ff-cc02-98c1-0836-02281274a202.htm" />
+    <HelpKINode Title="methods" Url="html/871465c4-30e8-0dbe-cc7c-ffe4cc1e8831.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PreExploreInitMocker class">
+    <HelpKINode Title="methods" Url="html/11e63928-cc6a-8150-bd0d-a740291d2a01.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PreGetMocker class">
+    <HelpKINode Title="methods" Url="html/f920e550-a83e-aad6-d385-74b83aee3cec.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PreLabelAddItemMocker class">
+    <HelpKINode Title="methods" Url="html/a334dbc2-dc7a-06a4-9166-5f7dd969cfe8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PreLabelDeleteMocker class">
+    <HelpKINode Title="methods" Url="html/61ff7022-d8db-430e-1cfa-9cc4919b2e66.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PreLabelMocker class">
+    <HelpKINode Title="methods" Url="html/9f78dd32-a76d-b95e-5f5b-7d538b7c4148.htm" />
+    <HelpKINode Title="methods" Url="html/7f22e8b6-5822-d4eb-bafe-5e18b934f7ff.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PreLabelModifyMocker class">
+    <HelpKINode Title="methods" Url="html/d169dff0-375b-eac9-eed1-fa99a553172c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PreLockMocker class">
+    <HelpKINode Title="methods" Url="html/ce511e76-3b85-77aa-e08b-e21cdbba5984.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PreMoveFolderMocker class">
+    <HelpKINode Title="methods" Url="html/c6dc3aca-1e54-a413-36e5-7eb8b9f955be.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PreMoveMocker class">
+    <HelpKINode Title="methods" Url="html/e09d1b09-536b-920f-f9a8-91b43d49b7a7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PreRenameFolderMocker class">
+    <HelpKINode Title="methods" Url="html/adc76d6d-8d19-24fd-43ee-490713022b4a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PreRenameMocker class">
+    <HelpKINode Title="methods" Url="html/6a1f8350-f053-ec3a-1beb-20094436022d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PreShareMocker class">
+    <HelpKINode Title="methods" Url="html/168e9a21-4788-c320-1da6-d1a654d25cf6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PreStateMocker class">
+    <HelpKINode Title="methods" Url="html/5210f02b-d078-2ee2-6ab7-a5fc8a91447a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PreUndoLockMocker class">
+    <HelpKINode Title="methods" Url="html/d93bfddb-2a2f-15c9-369a-3cbfe0acda9e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PreUnlockMocker class">
+    <HelpKINode Title="methods" Url="html/7af723ea-941e-f3a8-5566-2f7a77575a9b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Properties property" Url="html/89c2b851-bccd-7f45-97d0-664c488ed637.htm" />
+  <HelpKINode Title="RelativePathFile enumeration member" Url="html/52ff68d2-9e9d-2ea6-aea2-73bded797570.htm" />
+  <HelpKINode Title="RelativePathFolder enumeration member" Url="html/52ff68d2-9e9d-2ea6-aea2-73bded797570.htm" />
+  <HelpKINode Title="RenameFolderMocker class">
+    <HelpKINode Title="methods" Url="html/bfd74ced-965c-8eca-710e-aac9b3850b15.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RenameMocker class">
+    <HelpKINode Title="methods" Url="html/c78d034f-320a-1bfb-56f1-32496b54c77e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RequestVaultNameDuringTest property" Url="html/f2d15a70-86d0-b8a5-ae3f-499fbe5a79a2.htm" />
+  <HelpKINode Title="ReturnValue property" Url="html/753e6d74-c1cc-c5e0-9b28-04c75be66af2.htm" />
+  <HelpKINode Title="Run method" Url="html/0aef3ed0-e6eb-4482-e738-59db17aaa2d7.htm" />
+  <HelpKINode Title="Save method" Url="html/6bebef8a-4033-1afc-b73a-a7918e6ee336.htm" />
+  <HelpKINode Title="SerialNoMocker class">
+    <HelpKINode Title="methods" Url="html/9039019f-eb14-dbed-da39-e574bb3f3332.htm" />
+    <HelpKINode Title="methods" Url="html/5413216a-e5f2-4656-a398-76f2d66d5d68.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ShareMocker class">
+    <HelpKINode Title="methods" Url="html/44ae898a-bff9-6238-a732-742cabad5528.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ShowTaskSetupPagesDialog method" Url="html/78db9d7f-9002-b43b-13a8-5d6a04a95282.htm" />
+  <HelpKINode Title="Startup method" Url="html/33e112f5-166c-fed6-8dde-c779bee2e6a7.htm" />
+  <HelpKINode Title="StateMocker class">
+    <HelpKINode Title="methods" Url="html/5051c717-8431-b855-11d8-25e4c882e9ad.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TaskDetailsMocker class">
+    <HelpKINode Title="methods" Url="html/3cf8e042-43c8-82b3-f9a3-3ec7002912f9.htm" />
+    <HelpKINode Title="methods" Url="html/9f50dc98-1018-bc4a-28a9-9d4885ec4822.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TaskLaunchButtonMocker class">
+    <HelpKINode Title="methods" Url="html/a70843e6-636d-6c93-524e-591b12dd0070.htm" />
+    <HelpKINode Title="methods" Url="html/e71ed814-1324-5a49-6c31-f0f370d263cd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TaskLaunchMocker class">
+    <HelpKINode Title="methods" Url="html/3a1f214f-5024-c2e3-26cc-4c16176fe73a.htm" />
+    <HelpKINode Title="methods" Url="html/7dcb68b3-6a81-af06-d2ad-595b50c7a298.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TaskRunMocker class">
+    <HelpKINode Title="methods" Url="html/bb868cde-dd32-6714-bcd9-d84a1ca305cd.htm" />
+    <HelpKINode Title="methods" Url="html/09502691-1a34-82e3-47f2-fe42ccf8397f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TaskSetupButtonMocker class">
+    <HelpKINode Title="methods" Url="html/b5bc363e-fd50-1f92-f845-7cc74494d5d4.htm" />
+    <HelpKINode Title="methods" Url="html/40073be1-d036-7cd7-92d8-83cc75819b4d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TaskSetupMocker class">
+    <HelpKINode Title="methods" Url="html/eda56c60-367a-aba8-cbe8-66a8c51b0a36.htm" />
+    <HelpKINode Title="methods" Url="html/565111bb-970c-fa5a-c8a2-9a4f1e9e8fbd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TaskSetupPageHost(Of T) class">
+    <HelpKINode Title="TaskSetupPageHost(T) Class" Url="html/80ea494c-ea7d-ed25-e7b2-b3bdc3581c28.htm" />
+    <HelpKINode Title="constructor" Url="html/e00d1a2b-9bc5-d89f-c2f6-24ceefdce593.htm" />
+    <HelpKINode Title="events" Url="html/1adafd42-59b8-3337-8375-099bf77f87c6.htm" />
+    <HelpKINode Title="methods" Url="html/928ac4cb-be52-a48b-11f6-8bf83a73e668.htm" />
+    <HelpKINode Title="properties" Url="html/89562cd2-c6a7-4c21-38e1-2d74544680bb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TaskSetupPageHost(Of T).Dispose method" Url="html/358f05fc-1d7e-eea5-3b06-e2faf39b7624.htm" />
+  <HelpKINode Title="TaskSetupPageHost(Of T).Properties property" Url="html/89c2b851-bccd-7f45-97d0-664c488ed637.htm" />
+  <HelpKINode Title="TaskSetupPageHost(Of T).TaskSetupPageHost constructor" Url="html/e00d1a2b-9bc5-d89f-c2f6-24ceefdce593.htm" />
+  <HelpKINode Title="TaskSetupPageHost(Of T).TestableClass property" Url="html/2a550152-d58c-d3b2-1bfe-87bae2b4a51e.htm" />
+  <HelpKINode Title="TaskSetupPageHost&lt;T&gt; class">
+    <HelpKINode Title="TaskSetupPageHost(T) Class" Url="html/80ea494c-ea7d-ed25-e7b2-b3bdc3581c28.htm" />
+    <HelpKINode Title="constructor" Url="html/e00d1a2b-9bc5-d89f-c2f6-24ceefdce593.htm" />
+    <HelpKINode Title="events" Url="html/1adafd42-59b8-3337-8375-099bf77f87c6.htm" />
+    <HelpKINode Title="methods" Url="html/928ac4cb-be52-a48b-11f6-8bf83a73e668.htm" />
+    <HelpKINode Title="properties" Url="html/89562cd2-c6a7-4c21-38e1-2d74544680bb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TaskSetupPageHost&lt;T&gt;.Dispose method" Url="html/358f05fc-1d7e-eea5-3b06-e2faf39b7624.htm" />
+  <HelpKINode Title="TaskSetupPageHost&lt;T&gt;.Properties property" Url="html/89c2b851-bccd-7f45-97d0-664c488ed637.htm" />
+  <HelpKINode Title="TaskSetupPageHost&lt;T&gt;.TaskSetupPageHost constructor" Url="html/e00d1a2b-9bc5-d89f-c2f6-24ceefdce593.htm" />
+  <HelpKINode Title="TaskSetupPageHost&lt;T&gt;.TestableClass property" Url="html/2a550152-d58c-d3b2-1bfe-87bae2b4a51e.htm" />
+  <HelpKINode Title="TestableAddInBase(Of T) class">
+    <HelpKINode Title="TestableAddInBase(T) Class" Url="html/2d3f9caa-b194-e0e6-7bc4-c5b424a45b0c.htm" />
+    <HelpKINode Title="constructor" Url="html/07690e0b-f28f-6d9d-abd4-9582ab4589eb.htm" />
+    <HelpKINode Title="methods" Url="html/a4c9b699-39e7-e302-5f2b-984403ab5483.htm" />
+    <HelpKINode Title="properties" Url="html/540b50ae-32dd-55bb-138c-593c231a7bc4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TestableAddInBase(Of T).AddInObject property" Url="html/650b4102-1ce2-bdf1-1a4a-1c033cd1ac46.htm" />
+  <HelpKINode Title="TestableAddInBase(Of T).Cleanup method" Url="html/314639cf-6cbe-376d-c21c-ba2fd8af55e1.htm" />
+  <HelpKINode Title="TestableAddInBase(Of T).MockEdmCmd property" Url="html/849d31c6-37c5-65f8-9ac5-2ab664578946.htm" />
+  <HelpKINode Title="TestableAddInBase(Of T).MockEdmCmdData property" Url="html/371eba3d-aa97-4a79-b100-8d0c6c218720.htm" />
+  <HelpKINode Title="TestableAddInBase(Of T).Run method" Url="html/0aef3ed0-e6eb-4482-e738-59db17aaa2d7.htm" />
+  <HelpKINode Title="TestableAddInBase(Of T).ShowTaskSetupPagesDialog method" Url="html/78db9d7f-9002-b43b-13a8-5d6a04a95282.htm" />
+  <HelpKINode Title="TestableAddInBase(Of T).Startup method" Url="html/33e112f5-166c-fed6-8dde-c779bee2e6a7.htm" />
+  <HelpKINode Title="TestableAddInBase(Of T).TestableAddInBase constructor" Url="html/07690e0b-f28f-6d9d-abd4-9582ab4589eb.htm" />
+  <HelpKINode Title="TestableAddInBase(Of T).TimeAction method" Url="html/94c35fa1-fa59-0ce7-cc09-2bb6790298f0.htm" />
+  <HelpKINode Title="TestableAddInBase(Of T).Vault property" Url="html/256b728f-8d67-1eee-4801-9e9a42fc1172.htm" />
+  <HelpKINode Title="TestableAddInBase&lt;T&gt; class">
+    <HelpKINode Title="TestableAddInBase(T) Class" Url="html/2d3f9caa-b194-e0e6-7bc4-c5b424a45b0c.htm" />
+    <HelpKINode Title="constructor" Url="html/07690e0b-f28f-6d9d-abd4-9582ab4589eb.htm" />
+    <HelpKINode Title="methods" Url="html/a4c9b699-39e7-e302-5f2b-984403ab5483.htm" />
+    <HelpKINode Title="properties" Url="html/540b50ae-32dd-55bb-138c-593c231a7bc4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TestableAddInBase&lt;T&gt;.AddInObject property" Url="html/650b4102-1ce2-bdf1-1a4a-1c033cd1ac46.htm" />
+  <HelpKINode Title="TestableAddInBase&lt;T&gt;.Cleanup method" Url="html/314639cf-6cbe-376d-c21c-ba2fd8af55e1.htm" />
+  <HelpKINode Title="TestableAddInBase&lt;T&gt;.MockEdmCmd property" Url="html/849d31c6-37c5-65f8-9ac5-2ab664578946.htm" />
+  <HelpKINode Title="TestableAddInBase&lt;T&gt;.MockEdmCmdData property" Url="html/371eba3d-aa97-4a79-b100-8d0c6c218720.htm" />
+  <HelpKINode Title="TestableAddInBase&lt;T&gt;.Run method" Url="html/0aef3ed0-e6eb-4482-e738-59db17aaa2d7.htm" />
+  <HelpKINode Title="TestableAddInBase&lt;T&gt;.ShowTaskSetupPagesDialog method" Url="html/78db9d7f-9002-b43b-13a8-5d6a04a95282.htm" />
+  <HelpKINode Title="TestableAddInBase&lt;T&gt;.Startup method" Url="html/33e112f5-166c-fed6-8dde-c779bee2e6a7.htm" />
+  <HelpKINode Title="TestableAddInBase&lt;T&gt;.TestableAddInBase constructor" Url="html/07690e0b-f28f-6d9d-abd4-9582ab4589eb.htm" />
+  <HelpKINode Title="TestableAddInBase&lt;T&gt;.TimeAction method" Url="html/94c35fa1-fa59-0ce7-cc09-2bb6790298f0.htm" />
+  <HelpKINode Title="TestableAddInBase&lt;T&gt;.Vault property" Url="html/256b728f-8d67-1eee-4801-9e9a42fc1172.htm" />
+  <HelpKINode Title="TestableClass property" Url="html/2a550152-d58c-d3b2-1bfe-87bae2b4a51e.htm" />
+  <HelpKINode Title="TestVaultAttribute class">
+    <HelpKINode Title="TestVaultAttribute Class" Url="html/d3c6b10e-0bf7-2ae5-d549-c7b5ebfdfb34.htm" />
+    <HelpKINode Title="constructor" Url="html/0e62950d-9c5d-6427-984a-ebe4cb3d9a4e.htm" />
+    <HelpKINode Title="methods" Url="html/8818063b-cadd-8a52-96e1-758f2bd534fd.htm" />
+    <HelpKINode Title="properties" Url="html/8e593436-e5c8-5ecd-88e5-aadef9b8777b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TestVaultAttribute.EnforceLogin property" Url="html/fe5dd04f-29c5-84c5-469d-29b3d53382f3.htm" />
+  <HelpKINode Title="TestVaultAttribute.Name property" Url="html/d53395b2-4c43-ef44-84dd-79248cab53f4.htm" />
+  <HelpKINode Title="TestVaultAttribute.Password property" Url="html/0ed4d43f-5f42-6660-4db7-1e30b7690acc.htm" />
+  <HelpKINode Title="TestVaultAttribute.RequestVaultNameDuringTest property" Url="html/f2d15a70-86d0-b8a5-ae3f-499fbe5a79a2.htm" />
+  <HelpKINode Title="TestVaultAttribute.TestVaultAttribute constructor" Url="html/0e62950d-9c5d-6427-984a-ebe4cb3d9a4e.htm" />
+  <HelpKINode Title="TestVaultAttribute.Username property" Url="html/2eb20e96-e7f4-81e4-f5c2-55b82df2108b.htm" />
+  <HelpKINode Title="ThenGetFileByID method" Url="html/b22b59ed-3c8b-13ce-eb62-21fd770aa283.htm" />
+  <HelpKINode Title="ThenGetFileByRelativePath method" Url="html/45d4b43e-2477-6909-8616-5a48caaac41e.htm" />
+  <HelpKINode Title="ThenGetFirstFileBySearch method" Url="html/9ed1ff85-2628-c3aa-cdef-8112c8c72070.htm" />
+  <HelpKINode Title="ThenGetFolderByRelativePath method" Url="html/e93fc8c0-9407-efb7-61a8-b7529493b1e7.htm" />
+  <HelpKINode Title="ThenGetObjetByID(Of T) method" Url="html/924d60b6-0a22-44d6-80b3-98e560ebbd49.htm" />
+  <HelpKINode Title="ThenGetObjetByID&lt;T&gt; method" Url="html/924d60b6-0a22-44d6-80b3-98e560ebbd49.htm" />
+  <HelpKINode Title="TimeAction method" Url="html/94c35fa1-fa59-0ce7-cc09-2bb6790298f0.htm" />
+  <HelpKINode Title="UndoLockMocker class">
+    <HelpKINode Title="methods" Url="html/2129d814-8057-c8d7-c655-c9f54ec75133.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UnlockMocker class">
+    <HelpKINode Title="methods" Url="html/37aeeb3e-0b0e-39b0-05c7-f6f6e1e8e05c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Username property" Url="html/2eb20e96-e7f4-81e4-f5c2-55b82df2108b.htm" />
+  <HelpKINode Title="UseThisVault method" Url="html/e6618218-51dd-d3ee-9626-5450cd16ee19.htm" />
+  <HelpKINode Title="Value property" Url="html/9a719231-c515-a55e-4adb-e308cfe753d0.htm" />
+  <HelpKINode Title="Vault property" Url="html/256b728f-8d67-1eee-4801-9e9a42fc1172.htm" />
+  <HelpKINode Title="Welcome" Url="html/b6c549f2-3457-40d4-b716-aee4ae7e6e04.htm" />
+</HelpKI>
