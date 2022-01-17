@@ -1,2 +1,1 @@
-# PDMFramework.UnitTesting.Documentation
-Documentation repo on how to use PDMFramework.UnitTesting package 
+# Access docs from [here](http://orca.bluebyte.biz/).
