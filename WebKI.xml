@@ -111,17 +111,15 @@
   <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.EdmTaskExtensions class" Url="html/d6cdfebf-9413-4024-a853-fa19c00aadec.htm" />
   <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.Mockers.PDMMockFactory class" Url="html/09dd3fc2-2051-5fe3-8ec8-5b436fc71da2.htm" />
   <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.PDMFactory class" Url="html/4472f2b9-204e-ec71-13db-db5edb550307.htm" />
-  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.TaskSetupPageHost(Of T) class" Url="html/80ea494c-ea7d-ed25-e7b2-b3bdc3581c28.htm" />
-  <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.TaskSetupPageHost&lt;T&gt; class" Url="html/80ea494c-ea7d-ed25-e7b2-b3bdc3581c28.htm" />
   <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.TestableAddInBase(Of T) class" Url="html/2d3f9caa-b194-e0e6-7bc4-c5b424a45b0c.htm" />
   <HelpKINode Title="BlueByte.SOLIDWORKS.PDMProfessional.UnitTesting.TestableAddInBase&lt;T&gt; class" Url="html/2d3f9caa-b194-e0e6-7bc4-c5b424a45b0c.htm" />
   <HelpKINode Title="CardButtonMocker class">
-    <HelpKINode Title="methods" Url="html/3f78b80b-6527-1058-4b2b-d06f4258b17c.htm" />
     <HelpKINode Title="methods" Url="html/67abf17c-8e0f-f396-b0a0-5c371063eab6.htm" />
+    <HelpKINode Title="methods" Url="html/3f78b80b-6527-1058-4b2b-d06f4258b17c.htm" />
   </HelpKINode>
   <HelpKINode Title="CardInputMocker class">
-    <HelpKINode Title="methods" Url="html/2e4713a2-c23f-ef60-bbe2-752c7ae0d394.htm" />
     <HelpKINode Title="methods" Url="html/c7b9fc77-34d6-1162-9cbe-5cc0c61acced.htm" />
+    <HelpKINode Title="methods" Url="html/2e4713a2-c23f-ef60-bbe2-752c7ae0d394.htm" />
   </HelpKINode>
   <HelpKINode Title="CardListSrcMocker class">
     <HelpKINode Title="methods" Url="html/c6bc6287-7546-a6f1-73ed-3fd6cf509c46.htm" />
@@ -135,7 +133,6 @@
   <HelpKINode Title="DeleteFolderMocker class">
     <HelpKINode Title="methods" Url="html/bf5638ef-51c6-23d4-f325-23c77e097cab.htm" />
   </HelpKINode>
-  <HelpKINode Title="Dispose method" Url="html/358f05fc-1d7e-eea5-3b06-e2faf39b7624.htm" />
   <HelpKINode Title="EdmCmdDataMocker class">
     <HelpKINode Title="EdmCmdDataMocker Class" Url="html/80444f31-693d-0e19-a205-efd543a66f65.htm" />
     <HelpKINode Title="methods" Url="html/fa259c3e-0b05-0834-6334-9295ca273d6b.htm" />
@@ -658,8 +655,7 @@
   <HelpKINode Title="EdmTaskExtensions.CopyFrom method" Url="html/74972381-2273-f5cd-d06d-d13f3ba5bd90.htm" />
   <HelpKINode Title="EdmTaskExtensions.Save method" Url="html/6bebef8a-4033-1afc-b73a-a7918e6ee336.htm" />
   <HelpKINode Title="EnforceLogin property" Url="html/fe5dd04f-29c5-84c5-469d-29b3d53382f3.htm" />
-  <HelpKINode Title="GetAddInName(Of T) method" Url="html/1bfc547a-763f-bee7-2b77-e58370380454.htm" />
-  <HelpKINode Title="GetAddInName&lt;T&gt; method" Url="html/1bfc547a-763f-bee7-2b77-e58370380454.htm" />
+  <HelpKINode Title="GetAddInAssemblyName method" Url="html/b0a484c8-1ab8-f5e5-a0cd-96baf1370acf.htm" />
   <HelpKINode Title="GetIEdmUserByUsername method" Url="html/d53b7a8a-738e-8aab-69df-0983e3b9d987.htm" />
   <HelpKINode Title="GetMocker class">
     <HelpKINode Title="methods" Url="html/93c991db-3e99-bd31-8528-d57ee4984b26.htm" />
@@ -687,8 +683,8 @@
   </HelpKINode>
   <HelpKINode Title="LoginTo method" Url="html/7a6408c2-99b3-6a0d-39d9-dd1b8181a879.htm" />
   <HelpKINode Title="MenuMocker class">
-    <HelpKINode Title="methods" Url="html/d0855139-8818-86b5-b1ec-36d47fa4dc5a.htm" />
     <HelpKINode Title="methods" Url="html/ebd6a22d-7f6a-49e0-6c6b-908a6e9d1622.htm" />
+    <HelpKINode Title="methods" Url="html/d0855139-8818-86b5-b1ec-36d47fa4dc5a.htm" />
   </HelpKINode>
   <HelpKINode Title="Mock method">
     <HelpKINode Title="CardButtonMocker.Mock Method " Url="html/f793483a-43ea-58ad-688a-fa18b41ea9f7.htm" />
@@ -821,8 +817,7 @@
     <HelpKINode Title="PDMMockFactory Class" Url="html/09dd3fc2-2051-5fe3-8ec8-5b436fc71da2.htm" />
     <HelpKINode Title="methods" Url="html/3ea9f4b1-ec30-b1f5-0b59-e799671b2afb.htm" />
   </HelpKINode>
-  <HelpKINode Title="PDMMockFactory.GetAddInName(Of T) method" Url="html/1bfc547a-763f-bee7-2b77-e58370380454.htm" />
-  <HelpKINode Title="PDMMockFactory.GetAddInName&lt;T&gt; method" Url="html/1bfc547a-763f-bee7-2b77-e58370380454.htm" />
+  <HelpKINode Title="PDMMockFactory.GetAddInAssemblyName method" Url="html/b0a484c8-1ab8-f5e5-a0cd-96baf1370acf.htm" />
   <HelpKINode Title="PDMMockFactory.MockCmdMgr method" Url="html/3d00ad56-09d5-1e58-4843-c93ad90889ec.htm" />
   <HelpKINode Title="PDMMockFactory.MockEdmCmdNode method" Url="html/60c9b804-f53b-0d27-50cf-8b3f920f2796.htm" />
   <HelpKINode Title="PDMMockFactory.MockEdmTaskInstance method" Url="html/a795a160-be26-a195-4acc-ce999e288280.htm" />
@@ -845,16 +840,16 @@
   <HelpKINode Title="PDMTestMethodParameter.Value property" Url="html/9a719231-c515-a55e-4adb-e308cfe753d0.htm" />
   <HelpKINode Title="PDMTestMethodParameterType_e enumeration" Url="html/52ff68d2-9e9d-2ea6-aea2-73bded797570.htm" />
   <HelpKINode Title="PostAddFolderMocker class">
-    <HelpKINode Title="methods" Url="html/e0f3215c-5004-cf53-694a-f0b6956f6a4a.htm" />
     <HelpKINode Title="methods" Url="html/35532c53-2280-360b-7bab-8ad584faeafb.htm" />
+    <HelpKINode Title="methods" Url="html/e0f3215c-5004-cf53-694a-f0b6956f6a4a.htm" />
   </HelpKINode>
   <HelpKINode Title="PostAddMocker class">
     <HelpKINode Title="methods" Url="html/02a8a64c-3abc-4a5b-8948-b46bc35c01cb.htm" />
     <HelpKINode Title="methods" Url="html/e1f30846-593e-214c-68ce-e8ab2a93bf31.htm" />
   </HelpKINode>
   <HelpKINode Title="PostCopyFolderMocker class">
-    <HelpKINode Title="methods" Url="html/00ee0242-2c6a-e1d3-4440-c9f5f9dad1d1.htm" />
     <HelpKINode Title="methods" Url="html/43cc46d8-c93b-c03c-5ae7-fa46719a68e5.htm" />
+    <HelpKINode Title="methods" Url="html/00ee0242-2c6a-e1d3-4440-c9f5f9dad1d1.htm" />
   </HelpKINode>
   <HelpKINode Title="PostCopyMocker class">
     <HelpKINode Title="methods" Url="html/b8b65204-62d8-91ad-92ba-c3ff16b787f7.htm" />
@@ -863,8 +858,8 @@
     <HelpKINode Title="methods" Url="html/0b93357d-c183-8eac-74ab-c30e6800a27c.htm" />
   </HelpKINode>
   <HelpKINode Title="PostDeleteMocker class">
-    <HelpKINode Title="methods" Url="html/ec5f7641-96c6-dbd6-8e5e-69bf7f08ff60.htm" />
     <HelpKINode Title="methods" Url="html/3770585a-ad89-b07d-9765-a42bd88a2102.htm" />
+    <HelpKINode Title="methods" Url="html/ec5f7641-96c6-dbd6-8e5e-69bf7f08ff60.htm" />
   </HelpKINode>
   <HelpKINode Title="PostGetMocker class">
     <HelpKINode Title="methods" Url="html/a87b887a-8c64-041b-bdc3-b6c70e9236fc.htm" />
@@ -876,8 +871,8 @@
     <HelpKINode Title="methods" Url="html/35988337-e3f1-ce73-9318-e4180f34b229.htm" />
   </HelpKINode>
   <HelpKINode Title="PostLabelMocker class">
-    <HelpKINode Title="methods" Url="html/b0a5fe9e-d5eb-660b-488b-189f979ca31e.htm" />
     <HelpKINode Title="methods" Url="html/46bfdbbd-7501-cc88-4fd5-8c6e9db8a3a8.htm" />
+    <HelpKINode Title="methods" Url="html/b0a5fe9e-d5eb-660b-488b-189f979ca31e.htm" />
   </HelpKINode>
   <HelpKINode Title="PostLabelModifyMocker class">
     <HelpKINode Title="methods" Url="html/075a7b47-e8c0-8d70-b5b7-d5f43c201b12.htm" />
@@ -910,8 +905,8 @@
     <HelpKINode Title="methods" Url="html/3e9663fe-2c3d-4670-c46e-2ca41c224b51.htm" />
   </HelpKINode>
   <HelpKINode Title="PreAddFolderMocker class">
-    <HelpKINode Title="methods" Url="html/b8dcdb51-8640-66f5-9c1c-34d98234d90c.htm" />
     <HelpKINode Title="methods" Url="html/2bb63bf4-1e7b-f2c5-8dbc-0c1c71e0bc6e.htm" />
+    <HelpKINode Title="methods" Url="html/b8dcdb51-8640-66f5-9c1c-34d98234d90c.htm" />
   </HelpKINode>
   <HelpKINode Title="PreAddMocker class">
     <HelpKINode Title="methods" Url="html/2931ca80-0ed9-cb36-7db3-a7402f3e0826.htm" />
@@ -944,8 +939,8 @@
     <HelpKINode Title="methods" Url="html/61ff7022-d8db-430e-1cfa-9cc4919b2e66.htm" />
   </HelpKINode>
   <HelpKINode Title="PreLabelMocker class">
-    <HelpKINode Title="methods" Url="html/9f78dd32-a76d-b95e-5f5b-7d538b7c4148.htm" />
     <HelpKINode Title="methods" Url="html/7f22e8b6-5822-d4eb-bafe-5e18b934f7ff.htm" />
+    <HelpKINode Title="methods" Url="html/9f78dd32-a76d-b95e-5f5b-7d538b7c4148.htm" />
   </HelpKINode>
   <HelpKINode Title="PreLabelModifyMocker class">
     <HelpKINode Title="methods" Url="html/d169dff0-375b-eac9-eed1-fa99a553172c.htm" />
@@ -977,7 +972,6 @@
   <HelpKINode Title="PreUnlockMocker class">
     <HelpKINode Title="methods" Url="html/7af723ea-941e-f3a8-5566-2f7a77575a9b.htm" />
   </HelpKINode>
-  <HelpKINode Title="Properties property" Url="html/89c2b851-bccd-7f45-97d0-664c488ed637.htm" />
   <HelpKINode Title="RelativePathFile enumeration member" Url="html/52ff68d2-9e9d-2ea6-aea2-73bded797570.htm" />
   <HelpKINode Title="RelativePathFolder enumeration member" Url="html/52ff68d2-9e9d-2ea6-aea2-73bded797570.htm" />
   <HelpKINode Title="RenameFolderMocker class">
@@ -991,13 +985,14 @@
   <HelpKINode Title="Run method" Url="html/0aef3ed0-e6eb-4482-e738-59db17aaa2d7.htm" />
   <HelpKINode Title="Save method" Url="html/6bebef8a-4033-1afc-b73a-a7918e6ee336.htm" />
   <HelpKINode Title="SerialNoMocker class">
-    <HelpKINode Title="methods" Url="html/9039019f-eb14-dbed-da39-e574bb3f3332.htm" />
     <HelpKINode Title="methods" Url="html/5413216a-e5f2-4656-a398-76f2d66d5d68.htm" />
+    <HelpKINode Title="methods" Url="html/9039019f-eb14-dbed-da39-e574bb3f3332.htm" />
   </HelpKINode>
   <HelpKINode Title="ShareMocker class">
     <HelpKINode Title="methods" Url="html/44ae898a-bff9-6238-a732-742cabad5528.htm" />
   </HelpKINode>
-  <HelpKINode Title="ShowTaskSetupPagesDialog method" Url="html/78db9d7f-9002-b43b-13a8-5d6a04a95282.htm" />
+  <HelpKINode Title="ShowTaskSetupPageDialog method" Url="html/8abefae5-d18e-0e2a-3e04-603648a0b989.htm" />
+  <HelpKINode Title="ShowTaskSetupPagesDialog method" Url="html/29df07f8-4e6d-dcb2-edac-a21d34e10fc0.htm" />
   <HelpKINode Title="Startup method" Url="html/33e112f5-166c-fed6-8dde-c779bee2e6a7.htm" />
   <HelpKINode Title="StateMocker class">
     <HelpKINode Title="methods" Url="html/5051c717-8431-b855-11d8-25e4c882e9ad.htm" />
@@ -1007,47 +1002,25 @@
     <HelpKINode Title="methods" Url="html/9f50dc98-1018-bc4a-28a9-9d4885ec4822.htm" />
   </HelpKINode>
   <HelpKINode Title="TaskLaunchButtonMocker class">
-    <HelpKINode Title="methods" Url="html/a70843e6-636d-6c93-524e-591b12dd0070.htm" />
     <HelpKINode Title="methods" Url="html/e71ed814-1324-5a49-6c31-f0f370d263cd.htm" />
+    <HelpKINode Title="methods" Url="html/a70843e6-636d-6c93-524e-591b12dd0070.htm" />
   </HelpKINode>
   <HelpKINode Title="TaskLaunchMocker class">
-    <HelpKINode Title="methods" Url="html/3a1f214f-5024-c2e3-26cc-4c16176fe73a.htm" />
     <HelpKINode Title="methods" Url="html/7dcb68b3-6a81-af06-d2ad-595b50c7a298.htm" />
+    <HelpKINode Title="methods" Url="html/3a1f214f-5024-c2e3-26cc-4c16176fe73a.htm" />
   </HelpKINode>
   <HelpKINode Title="TaskRunMocker class">
     <HelpKINode Title="methods" Url="html/09502691-1a34-82e3-47f2-fe42ccf8397f.htm" />
     <HelpKINode Title="methods" Url="html/bb868cde-dd32-6714-bcd9-d84a1ca305cd.htm" />
   </HelpKINode>
   <HelpKINode Title="TaskSetupButtonMocker class">
-    <HelpKINode Title="methods" Url="html/40073be1-d036-7cd7-92d8-83cc75819b4d.htm" />
     <HelpKINode Title="methods" Url="html/b5bc363e-fd50-1f92-f845-7cc74494d5d4.htm" />
+    <HelpKINode Title="methods" Url="html/40073be1-d036-7cd7-92d8-83cc75819b4d.htm" />
   </HelpKINode>
   <HelpKINode Title="TaskSetupMocker class">
     <HelpKINode Title="methods" Url="html/565111bb-970c-fa5a-c8a2-9a4f1e9e8fbd.htm" />
     <HelpKINode Title="methods" Url="html/eda56c60-367a-aba8-cbe8-66a8c51b0a36.htm" />
   </HelpKINode>
-  <HelpKINode Title="TaskSetupPageHost(Of T) class">
-    <HelpKINode Title="TaskSetupPageHost(T) Class" Url="html/80ea494c-ea7d-ed25-e7b2-b3bdc3581c28.htm" />
-    <HelpKINode Title="constructor" Url="html/e00d1a2b-9bc5-d89f-c2f6-24ceefdce593.htm" />
-    <HelpKINode Title="events" Url="html/1adafd42-59b8-3337-8375-099bf77f87c6.htm" />
-    <HelpKINode Title="methods" Url="html/928ac4cb-be52-a48b-11f6-8bf83a73e668.htm" />
-    <HelpKINode Title="properties" Url="html/89562cd2-c6a7-4c21-38e1-2d74544680bb.htm" />
-  </HelpKINode>
-  <HelpKINode Title="TaskSetupPageHost(Of T).Dispose method" Url="html/358f05fc-1d7e-eea5-3b06-e2faf39b7624.htm" />
-  <HelpKINode Title="TaskSetupPageHost(Of T).Properties property" Url="html/89c2b851-bccd-7f45-97d0-664c488ed637.htm" />
-  <HelpKINode Title="TaskSetupPageHost(Of T).TaskSetupPageHost constructor" Url="html/e00d1a2b-9bc5-d89f-c2f6-24ceefdce593.htm" />
-  <HelpKINode Title="TaskSetupPageHost(Of T).TestableClass property" Url="html/2a550152-d58c-d3b2-1bfe-87bae2b4a51e.htm" />
-  <HelpKINode Title="TaskSetupPageHost&lt;T&gt; class">
-    <HelpKINode Title="TaskSetupPageHost(T) Class" Url="html/80ea494c-ea7d-ed25-e7b2-b3bdc3581c28.htm" />
-    <HelpKINode Title="constructor" Url="html/e00d1a2b-9bc5-d89f-c2f6-24ceefdce593.htm" />
-    <HelpKINode Title="events" Url="html/1adafd42-59b8-3337-8375-099bf77f87c6.htm" />
-    <HelpKINode Title="methods" Url="html/928ac4cb-be52-a48b-11f6-8bf83a73e668.htm" />
-    <HelpKINode Title="properties" Url="html/89562cd2-c6a7-4c21-38e1-2d74544680bb.htm" />
-  </HelpKINode>
-  <HelpKINode Title="TaskSetupPageHost&lt;T&gt;.Dispose method" Url="html/358f05fc-1d7e-eea5-3b06-e2faf39b7624.htm" />
-  <HelpKINode Title="TaskSetupPageHost&lt;T&gt;.Properties property" Url="html/89c2b851-bccd-7f45-97d0-664c488ed637.htm" />
-  <HelpKINode Title="TaskSetupPageHost&lt;T&gt;.TaskSetupPageHost constructor" Url="html/e00d1a2b-9bc5-d89f-c2f6-24ceefdce593.htm" />
-  <HelpKINode Title="TaskSetupPageHost&lt;T&gt;.TestableClass property" Url="html/2a550152-d58c-d3b2-1bfe-87bae2b4a51e.htm" />
   <HelpKINode Title="TestableAddInBase(Of T) class">
     <HelpKINode Title="TestableAddInBase(T) Class" Url="html/2d3f9caa-b194-e0e6-7bc4-c5b424a45b0c.htm" />
     <HelpKINode Title="constructor" Url="html/07690e0b-f28f-6d9d-abd4-9582ab4589eb.htm" />
@@ -1059,7 +1032,8 @@
   <HelpKINode Title="TestableAddInBase(Of T).MockEdmCmd property" Url="html/849d31c6-37c5-65f8-9ac5-2ab664578946.htm" />
   <HelpKINode Title="TestableAddInBase(Of T).MockEdmCmdData property" Url="html/371eba3d-aa97-4a79-b100-8d0c6c218720.htm" />
   <HelpKINode Title="TestableAddInBase(Of T).Run method" Url="html/0aef3ed0-e6eb-4482-e738-59db17aaa2d7.htm" />
-  <HelpKINode Title="TestableAddInBase(Of T).ShowTaskSetupPagesDialog method" Url="html/78db9d7f-9002-b43b-13a8-5d6a04a95282.htm" />
+  <HelpKINode Title="TestableAddInBase(Of T).ShowTaskSetupPageDialog method" Url="html/8abefae5-d18e-0e2a-3e04-603648a0b989.htm" />
+  <HelpKINode Title="TestableAddInBase(Of T).ShowTaskSetupPagesDialog method" Url="html/29df07f8-4e6d-dcb2-edac-a21d34e10fc0.htm" />
   <HelpKINode Title="TestableAddInBase(Of T).Startup method" Url="html/33e112f5-166c-fed6-8dde-c779bee2e6a7.htm" />
   <HelpKINode Title="TestableAddInBase(Of T).TestableAddInBase constructor" Url="html/07690e0b-f28f-6d9d-abd4-9582ab4589eb.htm" />
   <HelpKINode Title="TestableAddInBase(Of T).TimeAction method" Url="html/94c35fa1-fa59-0ce7-cc09-2bb6790298f0.htm" />
@@ -1075,12 +1049,12 @@
   <HelpKINode Title="TestableAddInBase&lt;T&gt;.MockEdmCmd property" Url="html/849d31c6-37c5-65f8-9ac5-2ab664578946.htm" />
   <HelpKINode Title="TestableAddInBase&lt;T&gt;.MockEdmCmdData property" Url="html/371eba3d-aa97-4a79-b100-8d0c6c218720.htm" />
   <HelpKINode Title="TestableAddInBase&lt;T&gt;.Run method" Url="html/0aef3ed0-e6eb-4482-e738-59db17aaa2d7.htm" />
-  <HelpKINode Title="TestableAddInBase&lt;T&gt;.ShowTaskSetupPagesDialog method" Url="html/78db9d7f-9002-b43b-13a8-5d6a04a95282.htm" />
+  <HelpKINode Title="TestableAddInBase&lt;T&gt;.ShowTaskSetupPageDialog method" Url="html/8abefae5-d18e-0e2a-3e04-603648a0b989.htm" />
+  <HelpKINode Title="TestableAddInBase&lt;T&gt;.ShowTaskSetupPagesDialog method" Url="html/29df07f8-4e6d-dcb2-edac-a21d34e10fc0.htm" />
   <HelpKINode Title="TestableAddInBase&lt;T&gt;.Startup method" Url="html/33e112f5-166c-fed6-8dde-c779bee2e6a7.htm" />
   <HelpKINode Title="TestableAddInBase&lt;T&gt;.TestableAddInBase constructor" Url="html/07690e0b-f28f-6d9d-abd4-9582ab4589eb.htm" />
   <HelpKINode Title="TestableAddInBase&lt;T&gt;.TimeAction method" Url="html/94c35fa1-fa59-0ce7-cc09-2bb6790298f0.htm" />
   <HelpKINode Title="TestableAddInBase&lt;T&gt;.Vault property" Url="html/256b728f-8d67-1eee-4801-9e9a42fc1172.htm" />
-  <HelpKINode Title="TestableClass property" Url="html/2a550152-d58c-d3b2-1bfe-87bae2b4a51e.htm" />
   <HelpKINode Title="TestVaultAttribute class">
     <HelpKINode Title="TestVaultAttribute Class" Url="html/d3c6b10e-0bf7-2ae5-d549-c7b5ebfdfb34.htm" />
     <HelpKINode Title="constructor" Url="html/0e62950d-9c5d-6427-984a-ebe4cb3d9a4e.htm" />
